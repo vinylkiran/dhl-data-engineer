@@ -1,0 +1,27 @@
+check_name,status,rows_checked,rows_failed,failure_pct,detail,timestamp
+null_pk_dim_date,PASS,730,0,0.0,"table=dim_date, pk=date_key",2026-06-08T23:31:00.820163
+null_pk_dim_warehouse,PASS,3,0,0.0,"table=dim_warehouse, pk=warehouse_key",2026-06-08T23:31:00.821046
+null_pk_dim_supplier,PASS,80,0,0.0,"table=dim_supplier, pk=supplier_key",2026-06-08T23:31:00.821808
+null_pk_dim_sku,PASS,2000,0,0.0,"table=dim_sku, pk=sku_key",2026-06-08T23:31:00.822513
+null_pk_fact_daily_demand,PASS,574509,0,0.0,"table=fact_daily_demand, pk=demand_key",2026-06-08T23:31:00.823221
+null_pk_fact_inventory_snapshot,PASS,19200,0,0.0,"table=fact_inventory_snapshot, pk=snapshot_key",2026-06-08T23:31:00.823859
+ri_fact_daily_demand_date_key,PASS,574509,0,0.0,fact_daily_demand.date_key → dim_date.date_key,2026-06-08T23:31:00.830301
+ri_fact_daily_demand_sku_key,PASS,574509,0,0.0,fact_daily_demand.sku_key → dim_sku.sku_key,2026-06-08T23:31:00.834471
+ri_fact_daily_demand_warehouse_key,PASS,574509,0,0.0,fact_daily_demand.warehouse_key → dim_warehouse.warehouse_key,2026-06-08T23:31:00.838769
+ri_fact_inventory_snapshot_date_key,PASS,19200,0,0.0,fact_inventory_snapshot.date_key → dim_date.date_key,2026-06-08T23:31:00.840250
+ri_fact_inventory_snapshot_sku_key,PASS,19200,0,0.0,fact_inventory_snapshot.sku_key → dim_sku.sku_key,2026-06-08T23:31:00.841790
+ri_fact_inventory_snapshot_warehouse_key,PASS,19200,0,0.0,fact_inventory_snapshot.warehouse_key → dim_warehouse.warehouse_key,2026-06-08T23:31:00.843267
+dup_pk_dim_date,PASS,730,0,0.0,"table=dim_date, pk=date_key",2026-06-08T23:31:00.845311
+dup_pk_dim_warehouse,PASS,3,0,0.0,"table=dim_warehouse, pk=warehouse_key",2026-06-08T23:31:00.846372
+dup_pk_dim_supplier,PASS,80,0,0.0,"table=dim_supplier, pk=supplier_key",2026-06-08T23:31:00.847389
+dup_pk_dim_sku,PASS,2000,0,0.0,"table=dim_sku, pk=sku_key",2026-06-08T23:31:00.848242
+date_range_fact_daily_demand,PASS,574509,0,0.0,expected 2022-01-01 to 2023-12-31,2026-06-08T23:31:00.849783
+date_range_fact_inventory_snapshot,PASS,19200,0,0.0,expected 2022-01-01 to 2023-12-31,2026-06-08T23:31:00.850752
+revenue_non_negative,PASS,574509,0,0.0,,2026-06-08T23:31:00.851333
+qty_non_negative_fact_daily_demand_quantity_demanded,PASS,574509,0,0.0,"table=fact_daily_demand, col=quantity_demanded",2026-06-08T23:31:00.851906
+qty_non_negative_fact_daily_demand_quantity_fulfilled,PASS,574509,0,0.0,"table=fact_daily_demand, col=quantity_fulfilled",2026-06-08T23:31:00.852523
+qty_non_negative_fact_inventory_snapshot_on_hand_qty,PASS,19200,0,0.0,"table=fact_inventory_snapshot, col=on_hand_qty",2026-06-08T23:31:00.853184
+qty_non_negative_fact_inventory_snapshot_available_qty,PASS,19200,0,0.0,"table=fact_inventory_snapshot, col=available_qty",2026-06-08T23:31:00.853765
+stockout_consistency,PASS,17356,0,0.0,stockout=TRUE but fulfilled > demanded,2026-06-08T23:31:00.860942
+completeness_fact_daily_demand,PASS,574509,0,0.0,"source=574,509, loaded=574,509",2026-06-08T23:31:00.928135
+completeness_fact_inventory_snapshot,PASS,19200,0,0.0,"source=19,200, loaded=19,200",2026-06-08T23:31:00.931455

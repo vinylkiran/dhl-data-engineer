@@ -1,0 +1,88 @@
+table,column,data_type,row_count,null_count,null_pct,distinct_count,duplicate_pct,min,max,mean,flag_high_nulls,flag_low_cardinality,profiled_at
+dim_date,date_key,INTEGER,730,0,0.0,730,0.0,20220101,20231231,20225668.3233,False,False,2026-06-08T23:31:05.920356
+dim_date,full_date,DATE,730,0,0.0,730,0.0,2022-01-01,2023-12-31,,False,False,2026-06-08T23:31:05.921793
+dim_date,day_of_week,INTEGER,730,0,0.0,7,99.0411,1,7,4.0068,False,True,2026-06-08T23:31:05.923248
+dim_date,day_name,VARCHAR,730,0,0.0,7,99.0411,Saturday,,,False,True,2026-06-08T23:31:05.924518
+dim_date,day_of_month,INTEGER,730,0,0.0,31,95.7534,1,31,15.7205,False,True,2026-06-08T23:31:05.925881
+dim_date,day_of_year,INTEGER,730,0,0.0,365,50.0,1,365,183.0,False,False,2026-06-08T23:31:05.927041
+dim_date,week_of_year,INTEGER,730,0,0.0,52,92.8767,1,52,26.5699,False,True,2026-06-08T23:31:05.928147
+dim_date,month_num,INTEGER,730,0,0.0,12,98.3562,1,12,6.526,False,True,2026-06-08T23:31:05.929337
+dim_date,month_name,VARCHAR,730,0,0.0,12,98.3562,January,,,False,True,2026-06-08T23:31:05.930518
+dim_date,quarter,INTEGER,730,0,0.0,4,99.4521,1,4,2.5096,False,True,2026-06-08T23:31:05.931512
+dim_date,year,INTEGER,730,0,0.0,2,99.726,2022,2023,2022.5,False,True,2026-06-08T23:31:05.932769
+dim_date,is_weekend,BOOLEAN,730,0,0.0,2,99.726,True,,,False,True,2026-06-08T23:31:05.933793
+dim_date,is_month_start,BOOLEAN,730,0,0.0,2,99.726,True,,,False,True,2026-06-08T23:31:05.934823
+dim_date,is_month_end,BOOLEAN,730,0,0.0,2,99.726,False,,,False,True,2026-06-08T23:31:05.935802
+dim_date,is_quarter_end,BOOLEAN,730,0,0.0,2,99.726,False,,,False,True,2026-06-08T23:31:05.936739
+dim_date,season,VARCHAR,730,0,0.0,4,99.4521,Winter,,,False,True,2026-06-08T23:31:05.937676
+dim_date,etl_loaded_at,TIMESTAMP,730,0,0.0,1,99.863,2026-06-08 23:30:48.985385,2026-06-08 23:30:48.985385,,False,True,2026-06-08T23:31:05.938514
+dim_date,etl_source_file,VARCHAR,730,0,0.0,1,99.863,programmatic,,,False,True,2026-06-08T23:31:05.939404
+dim_warehouse,warehouse_key,INTEGER,3,0,0.0,3,0.0,1,3,2.0,False,False,2026-06-08T23:31:05.941416
+dim_warehouse,warehouse_id,VARCHAR,3,0,0.0,3,0.0,DHL-WH-IL02,,,False,False,2026-06-08T23:31:05.942330
+dim_warehouse,warehouse_name,VARCHAR,3,0,0.0,3,0.0,DHL Warehouse Illinois 02,,,False,False,2026-06-08T23:31:05.943284
+dim_warehouse,city,VARCHAR,3,0,0.0,3,0.0,Chicago,,,False,False,2026-06-08T23:31:05.944293
+dim_warehouse,state,VARCHAR,3,0,0.0,3,0.0,Illinois,,,False,False,2026-06-08T23:31:05.945281
+dim_warehouse,region,VARCHAR,3,0,0.0,3,0.0,Midwest,,,False,False,2026-06-08T23:31:05.946259
+dim_warehouse,country,VARCHAR,3,0,0.0,1,66.6667,USA,,,False,True,2026-06-08T23:31:05.947057
+dim_warehouse,timezone,VARCHAR,3,0,0.0,2,33.3333,America/Chicago,,,False,False,2026-06-08T23:31:05.947851
+dim_warehouse,active_flag,BOOLEAN,3,0,0.0,1,66.6667,True,,,False,False,2026-06-08T23:31:05.948722
+dim_warehouse,etl_loaded_at,TIMESTAMP,3,0,0.0,1,66.6667,2026-06-08 23:30:48.985385,2026-06-08 23:30:48.985385,,False,True,2026-06-08T23:31:05.949455
+dim_warehouse,etl_source_file,VARCHAR,3,0,0.0,1,66.6667,programmatic,,,False,True,2026-06-08T23:31:05.950212
+dim_supplier,supplier_key,INTEGER,80,0,0.0,80,0.0,1,80,40.5,False,False,2026-06-08T23:31:05.952133
+dim_supplier,supplier_id,VARCHAR,80,0,0.0,80,0.0,SUP-0001,,,False,False,2026-06-08T23:31:05.953052
+dim_supplier,supplier_name,VARCHAR,80,0,0.0,80,0.0,GTO Logistics Ltd,,,False,False,2026-06-08T23:31:05.953898
+dim_supplier,country,VARCHAR,80,0,0.0,9,88.75,USA,,,False,True,2026-06-08T23:31:05.954696
+dim_supplier,category_focus,VARCHAR,80,0,0.0,6,92.5,Industrial,,,False,True,2026-06-08T23:31:05.955500
+dim_supplier,lead_time_avg_days,DOUBLE,80,0,0.0,19,76.25,3.0,21.0,11.4875,False,True,2026-06-08T23:31:05.957585
+dim_supplier,lead_time_std_days,DOUBLE,80,0,0.0,4,95.0,1.0,4.0,2.3,False,True,2026-06-08T23:31:05.958712
+dim_supplier,otif_rate,DOUBLE,80,0,0.0,65,18.75,0.73,1.0,0.8961,False,False,2026-06-08T23:31:05.960044
+dim_supplier,fill_rate,DOUBLE,80,0,0.0,56,30.0,0.766,1.0,0.9454,False,False,2026-06-08T23:31:05.961040
+dim_supplier,defect_rate,DOUBLE,80,0,0.0,65,18.75,0.0,0.0593,0.0221,False,False,2026-06-08T23:31:05.962046
+dim_supplier,active_flag,BOOLEAN,80,0,0.0,2,97.5,True,,,False,False,2026-06-08T23:31:05.962994
+dim_supplier,etl_loaded_at,TIMESTAMP,80,0,0.0,1,98.75,2026-06-08 23:30:48.985385,2026-06-08 23:30:48.985385,,False,True,2026-06-08T23:31:05.963961
+dim_supplier,etl_source_file,VARCHAR,80,0,0.0,1,98.75,suppliers.csv,,,False,True,2026-06-08T23:31:05.965016
+dim_sku,sku_key,INTEGER,2000,0,0.0,2000,0.0,1,2000,1000.5,False,False,2026-06-08T23:31:05.967375
+dim_sku,sku_id,VARCHAR,2000,0,0.0,2000,0.0,AUT-000007,,,False,False,2026-06-08T23:31:05.968387
+dim_sku,category,VARCHAR,2000,0,0.0,8,99.6,Automotive,,,False,True,2026-06-08T23:31:05.969550
+dim_sku,abc_class,VARCHAR,2000,0,0.0,3,99.85,B,,,False,True,2026-06-08T23:31:05.970472
+dim_sku,xyz_class,VARCHAR,2000,2000,100.0,0,100.0,,,,True,False,2026-06-08T23:31:05.971374
+dim_sku,unit_cost,DOUBLE,2000,0,0.0,1943,2.85,0.58,4037.15,264.3386,False,False,2026-06-08T23:31:05.972564
+dim_sku,unit_price,DOUBLE,2000,0,0.0,1964,1.8,0.87,6937.4,415.6272,False,False,2026-06-08T23:31:05.973603
+dim_sku,weight_kg,DOUBLE,2000,0,0.0,1697,15.15,0.014,49.86,5.4023,False,False,2026-06-08T23:31:05.974557
+dim_sku,volume_cbm,DOUBLE,2000,0,0.0,1676,16.2,0.0015,0.5,0.2539,False,False,2026-06-08T23:31:05.975435
+dim_sku,storage_type,VARCHAR,2000,0,0.0,4,99.8,Bulk,,,False,True,2026-06-08T23:31:05.976272
+dim_sku,supplier_id,VARCHAR,2000,0,0.0,61,96.95,SUP-0026,,,False,True,2026-06-08T23:31:05.977091
+dim_sku,lead_time_days,INTEGER,2000,0,0.0,19,99.05,3,21,12.0265,False,True,2026-06-08T23:31:05.978153
+dim_sku,min_order_qty,INTEGER,2000,0,0.0,7,99.65,1,100,28.99,False,True,2026-06-08T23:31:05.979243
+dim_sku,safety_stock_qty,INTEGER,2000,0,0.0,289,85.55,10,299,152.7345,False,True,2026-06-08T23:31:05.980306
+dim_sku,reorder_point_qty,INTEGER,2000,0,0.0,562,71.9,20,599,310.345,False,True,2026-06-08T23:31:05.981167
+dim_sku,primary_warehouse,VARCHAR,2000,0,0.0,3,99.85,DHL-WH-IL02,,,False,True,2026-06-08T23:31:05.981996
+dim_sku,active_flag,BOOLEAN,2000,0,0.0,2,99.9,False,,,False,False,2026-06-08T23:31:05.982933
+dim_sku,etl_loaded_at,TIMESTAMP,2000,0,0.0,1,99.95,2026-06-08 23:30:48.985385,2026-06-08 23:30:48.985385,,False,True,2026-06-08T23:31:05.983649
+dim_sku,etl_source_file,VARCHAR,2000,0,0.0,1,99.95,sku_master.csv,,,False,True,2026-06-08T23:31:05.984508
+fact_daily_demand,demand_key,BIGINT,574509,0,0.0,574509,0.0,1,574509,287255.0,False,False,2026-06-08T23:31:06.001174
+fact_daily_demand,date_key,INTEGER,574509,0,0.0,730,99.8729,20220101,20231231,20225667.3346,False,False,2026-06-08T23:31:06.007090
+fact_daily_demand,sku_key,INTEGER,574509,0,0.0,1664,99.7104,2,2000,994.3408,False,False,2026-06-08T23:31:06.012417
+fact_daily_demand,warehouse_key,INTEGER,574509,0,0.0,3,99.9995,1,3,2.0007,False,False,2026-06-08T23:31:06.017924
+fact_daily_demand,abc_class,VARCHAR,574509,0,0.0,3,99.9995,B,,,False,True,2026-06-08T23:31:06.019361
+fact_daily_demand,xyz_class,VARCHAR,574509,0,0.0,3,99.9995,X,,,False,True,2026-06-08T23:31:06.020722
+fact_daily_demand,quantity_demanded,INTEGER,574509,0,0.0,504,99.9123,1,569,41.5474,False,True,2026-06-08T23:31:06.026371
+fact_daily_demand,quantity_fulfilled,INTEGER,574509,0,0.0,505,99.9121,0,569,40.713,False,True,2026-06-08T23:31:06.032498
+fact_daily_demand,quantity_unfulfilled,INTEGER,574509,0,0.0,262,99.9544,0,464,0.8343,False,True,2026-06-08T23:31:06.038334
+fact_daily_demand,stockout_flag,BOOLEAN,574509,0,0.0,2,99.9997,False,,,False,False,2026-06-08T23:31:06.042988
+fact_daily_demand,revenue,DOUBLE,574509,0,0.0,77398,86.528,0.0,2295808.84,33849.0218,False,True,2026-06-08T23:31:06.055222
+fact_daily_demand,fill_rate,DOUBLE,574509,0,0.0,2859,99.5024,0.0,1.0,0.9784,False,True,2026-06-08T23:31:06.064701
+fact_daily_demand,etl_loaded_at,TIMESTAMP,574509,0,0.0,1,99.9998,2026-06-08 23:30:48.985385,2026-06-08 23:30:48.985385,,False,True,2026-06-08T23:31:06.066025
+fact_daily_demand,etl_source_file,VARCHAR,574509,0,0.0,1,99.9998,daily_demand.csv,,,False,True,2026-06-08T23:31:06.067391
+fact_inventory_snapshot,snapshot_key,BIGINT,19200,0,0.0,19200,0.0,1,19200,9600.5,False,False,2026-06-08T23:31:06.070334
+fact_inventory_snapshot,date_key,INTEGER,19200,0,0.0,24,99.875,20220131,20231231,20225680.4167,False,False,2026-06-08T23:31:06.071753
+fact_inventory_snapshot,sku_key,INTEGER,19200,0,0.0,1664,91.3333,2,2000,998.6842,False,False,2026-06-08T23:31:06.073247
+fact_inventory_snapshot,warehouse_key,INTEGER,19200,0,0.0,3,99.9844,1,3,2.0133,False,False,2026-06-08T23:31:06.074722
+fact_inventory_snapshot,on_hand_qty,INTEGER,19200,0,0.0,1393,92.7448,10,1494,461.6804,False,True,2026-06-08T23:31:06.076358
+fact_inventory_snapshot,in_transit_qty,INTEGER,19200,0,0.0,12,99.9375,0,200,30.0069,False,True,2026-06-08T23:31:06.077826
+fact_inventory_snapshot,committed_qty,INTEGER,19200,0,0.0,447,97.6719,0,499,91.5444,False,True,2026-06-08T23:31:06.079362
+fact_inventory_snapshot,available_qty,INTEGER,19200,0,0.0,1195,93.776,8,1369,370.1359,False,True,2026-06-08T23:31:06.080812
+fact_inventory_snapshot,inventory_value,DOUBLE,19200,0,0.0,18794,2.1146,56.78,3075168.51,119606.8701,False,False,2026-06-08T23:31:06.083122
+fact_inventory_snapshot,inventory_record_accuracy,DOUBLE,19200,0,0.0,12465,35.0781,0.6502242152466368,1.0,0.8027,False,False,2026-06-08T23:31:06.085386
+fact_inventory_snapshot,etl_loaded_at,TIMESTAMP,19200,0,0.0,1,99.9948,2026-06-08 23:30:48.985385,2026-06-08 23:30:48.985385,,False,True,2026-06-08T23:31:06.086208
+fact_inventory_snapshot,etl_source_file,VARCHAR,19200,0,0.0,1,99.9948,inventory_snapshot.csv,,,False,True,2026-06-08T23:31:06.087244
