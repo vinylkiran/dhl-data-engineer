@@ -1,0 +1,6 @@
+step,status,rows_processed,duration_s,notes,run_at
+ingest,OK,574509,0.0,,2026-06-09T00:49:47.562795
+features,UP_TO_DATE,0,8.68,,2026-06-09T00:49:47.562806
+models,OK,149760,10.6,,2026-06-09T00:49:47.562808
+evaluation,OK,4992,1.29,,2026-06-09T00:49:47.562809
+export,OK,0,0.81,/sessions/serene-wonderful-carson/mnt/DHL/dhl-data-engineer/02-demand-forecasting-pipeline/outputs/forecast_output.csv,2026-06-09T00:49:47.562811

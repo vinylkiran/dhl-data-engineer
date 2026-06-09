@@ -1,0 +1,6 @@
+check,status,detail,rows_checked,rows_failed,timestamp
+pipeline_steps_completed,PASS,all 5 steps completed successfully,5,0,2026-06-09T00:50:47.219027
+forecast_row_count,PASS,"actual=149,760, expected≈149,760 (1664 SKUs × 3 warehouses × 30 days), tolerance ±20%",149760,0,2026-06-09T00:50:47.221400
+no_missing_skus,PASS,1664/1664 active SKUs have forecasts; 0 missing,1664,0,2026-06-09T00:50:47.223256
+mape_drift,PASS,avg_mape=62.3183 vs prior=62.3183 — drift=0.0% within threshold,4992,0,2026-06-09T00:50:47.226287
+feature_store_growth,PASS,"fact_feature_store grew from 574,509 → 574,509 rows, max_date=2023-12-31",574509,0,2026-06-09T00:50:47.228509

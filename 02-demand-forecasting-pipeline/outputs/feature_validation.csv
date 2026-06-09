@@ -1,0 +1,6 @@
+check,status,rows_checked,rows_failed,detail,timestamp
+calendar_nulls,PASS,574509,0,"cols checked: ['day_of_week', 'week_of_year', 'month', 'quarter', 'is_weekend', 'season']",2026-06-09T00:49:52.886806
+lag1_correctness,PASS,577,0,"spot-checked 577 rows, 0 mismatches (0.0%) — edge rows filled with mean",2026-06-09T00:49:52.907969
+rolling_avg_bounds,PASS,574509,0,negative rolling avg rows: 0,2026-06-09T00:49:52.908784
+row_count,PASS,574509,0,"actual=574,509, min_expected=4,992 (1664 SKUs × 3 warehouses)",2026-06-09T00:49:52.910059
+no_duplicates,PASS,574509,0,duplicate combinations: 0,2026-06-09T00:49:52.936708
