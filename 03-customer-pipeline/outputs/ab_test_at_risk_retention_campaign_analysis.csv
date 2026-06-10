@@ -1,0 +1,2 @@
+test_name,n_test,n_control,conversions_test,conversions_control,conversion_rate_test,conversion_rate_control,lift_pct,z_statistic,p_value,significant,ci_lower_95,ci_upper_95,cohens_h,recommendation,analysed_at
+at_risk_retention_campaign,30,30,0,0,0.0,0.0,0,0,1.0,False,0.0,0.0,0.0,NOT SIGNIFICANT (p=1.000) — insufficient evidence to prefer test over control. Consider running longer or with larger sample.,2026-06-10T22:24:28.058123

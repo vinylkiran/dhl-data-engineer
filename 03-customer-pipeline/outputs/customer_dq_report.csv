@@ -1,0 +1,7 @@
+check,status,rows_checked,rows_failed,detail,timestamp
+no_duplicate_customers,PASS,500,0,"total=500, distinct=500, duplicates=0",2026-06-10T22:24:39.052014
+rfm_referential_integrity,PASS,398,0,rfm rows with no matching customer: 0 of 398,2026-06-10T22:24:39.053868
+rfm_score_bounds,PASS,398,0,rows with score outside 1-5: 0 of 398,2026-06-10T22:24:39.054624
+no_ab_test_contamination,PASS,60,0,customers in both test and control for same test: 0,2026-06-10T22:24:39.056204
+conversion_date_order,PASS,0,0,conversions before assignment date: 0 of 0 converted customers,2026-06-10T22:24:39.056993
+segment_distribution,PASS,398,0,Champions=40 (10.1% of 398) — threshold ≤15%,2026-06-10T22:24:39.057936
