@@ -1,0 +1,8 @@
+check,status,rows_checked,rows_failed,detail,timestamp
+duration_bounds,PASS,219000,0,"tasks with duration ≤0 or >120min: 0 of 219,000",2026-06-10T22:47:50.552625
+accuracy_flag_values,PASS,219000,0,tasks with null accuracy_flag: 0,2026-06-10T22:47:50.553431
+error_code_consistency,PASS,219000,0,tasks with error_code but accuracy_flag=True: 0,2026-06-10T22:47:50.555405
+no_duplicate_task_ids,PASS,219000,0,"total=219,000, distinct=219,000, duplicates=0",2026-06-10T22:47:50.572251
+warehouse_ref_integrity,PASS,219000,0,"tasks with unknown warehouse_id: 0 of 219,000",2026-06-10T22:47:50.575548
+daily_pick_volume,WARN,2190,1698,"1,698 warehouse-day combinations outside expected range (50–500 picks/day) of 2,190 total warehouse-days",2026-06-10T22:47:50.582508
+operator_productivity,WARN,100245,1896,"operator-shift records >±3.0σ from mean (2.2±1.3): 1,896 of 100,245",2026-06-10T22:47:50.618474
