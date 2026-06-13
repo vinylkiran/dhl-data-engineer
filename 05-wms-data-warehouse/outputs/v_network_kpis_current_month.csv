@@ -1,0 +1,2 @@
+kpi_year,kpi_month,network_total_tasks,network_total_picks,network_total_putaways,network_total_errors,network_pick_accuracy_pct,network_overall_accuracy_pct,avg_pick_duration_min,avg_picks_per_labour_hour,active_warehouses
+2023,12,9402.0,4182.0,1905.0,54.0,99.474,99.426,7.493,8.064,3

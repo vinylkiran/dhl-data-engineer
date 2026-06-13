@@ -1,0 +1,11 @@
+check_name,severity,status,rows_checked,rows_failed,failure_pct,sample_failures,checked_at
+no_null_primary_keys,CRITICAL,PASS,389304,0,0.0,,2026-06-13T20:22:10.832529
+no_negative_quantities,CRITICAL,PASS,219000,0,0.0,,2026-06-13T20:22:10.833334
+no_future_dates,CRITICAL,PASS,219000,0,0.0,,2026-06-13T20:22:10.834077
+accuracy_rates_valid,HIGH,PASS,6566,0,0.0,,2026-06-13T20:22:10.835755
+error_codes_only_on_errors,HIGH,PASS,217583,0,0.0,,2026-06-13T20:22:10.838173
+warehouse_referential_integrity,HIGH,PASS,219000,0,0.0,,2026-06-13T20:22:10.841242
+task_duration_bounds,MEDIUM,PASS,219000,0,0.0,,2026-06-13T20:22:10.841851
+picks_per_labour_hour_bounds,MEDIUM,PASS,6566,0,0.0,,2026-06-13T20:22:10.842652
+operators_with_zero_tasks,LOW,INFO,60,0,0.0,dim_operator: 60 operators | Active in last 30 days: 60 | Potentially inactive: 0,2026-06-13T20:22:10.847674
+skus_with_no_picks,LOW,INFO,1664,151,9.075,"Active SKUs: 1,664 | With picks in last 30 days: 1,513 | No recent picks: 151",2026-06-13T20:22:10.852014

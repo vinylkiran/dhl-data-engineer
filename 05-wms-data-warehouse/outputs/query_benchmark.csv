@@ -1,0 +1,8 @@
+view,description,pre_agg_ms,raw_ms,speedup_factor,benchmarked_at
+v_network_kpis_current_month,Network-level KPIs for current month,5.61,7.6,1.36,2026-06-13T20:23:09.437867
+v_warehouse_comparison,"KPI comparison across all warehouses, last 30 days",2.57,4.41,1.72,2026-06-13T20:23:09.459059
+v_kpi_trends_12m,Monthly KPI trends for last 12 months,2.57,8.4,3.27,2026-06-13T20:23:09.492154
+v_operator_leaderboard,"Operator ranking by accuracy, current month",8.36,5.68,0.68,2026-06-13T20:23:09.534480
+v_error_patterns,Error code frequency and trends,3.95,2.46,0.62,2026-06-13T20:23:09.553909
+v_coaching_list,Operators needing coaching (last 14 days),38.31,3.44,0.09,2026-06-13T20:23:09.679415
+v_high_performer_list,High performers for recognition (last 30 days),15.5,4.69,0.3,2026-06-13T20:23:09.740259

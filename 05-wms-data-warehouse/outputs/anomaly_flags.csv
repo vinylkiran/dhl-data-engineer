@@ -1,0 +1,818 @@
+anomaly_type,warehouse_id,detection_date,observed_value,baseline_value,deviation,severity,description,flagged_at
+accuracy_drop,DHL-WH-IL02,2022-01-11,97.6189,99.6087,2.27,HIGH,Pick accuracy 97.62% is 2.3σ below 90-day mean (99.61%),2026-06-13T20:22:22.092633
+accuracy_drop,DHL-WH-IL02,2022-01-21,97.7776,99.6892,2.4397,HIGH,Pick accuracy 97.78% is 2.4σ below 90-day mean (99.69%),2026-06-13T20:22:22.092707
+accuracy_drop,DHL-WH-IL02,2022-01-23,97.9593,99.6275,2.0017,HIGH,Pick accuracy 97.96% is 2.0σ below 90-day mean (99.63%),2026-06-13T20:22:22.092762
+accuracy_drop,DHL-WH-IL02,2022-01-26,97.6193,99.5789,2.2172,HIGH,Pick accuracy 97.62% is 2.2σ below 90-day mean (99.58%),2026-06-13T20:22:22.092809
+accuracy_drop,DHL-WH-IL02,2022-01-27,95.3492,99.4223,3.4256,HIGH,Pick accuracy 95.35% is 3.4σ below 90-day mean (99.42%),2026-06-13T20:22:22.092853
+accuracy_drop,DHL-WH-IL02,2022-02-06,95.4544,99.338,3.0162,HIGH,Pick accuracy 95.45% is 3.0σ below 90-day mean (99.34%),2026-06-13T20:22:22.092898
+accuracy_drop,DHL-WH-IL02,2022-02-27,96.6668,99.3244,2.1453,HIGH,Pick accuracy 96.67% is 2.1σ below 90-day mean (99.32%),2026-06-13T20:22:22.092941
+accuracy_drop,DHL-WH-IL02,2022-03-28,96.7742,99.3474,2.2041,HIGH,Pick accuracy 96.77% is 2.2σ below 90-day mean (99.35%),2026-06-13T20:22:22.092985
+accuracy_drop,DHL-WH-IL02,2022-04-07,94.8721,99.2786,3.482,HIGH,Pick accuracy 94.87% is 3.5σ below 90-day mean (99.28%),2026-06-13T20:22:22.093028
+accuracy_drop,DHL-WH-IL02,2022-05-02,95.4546,99.3058,3.0761,HIGH,Pick accuracy 95.45% is 3.1σ below 90-day mean (99.31%),2026-06-13T20:22:22.093072
+accuracy_drop,DHL-WH-IL02,2022-05-23,95.6523,99.3403,3.0149,HIGH,Pick accuracy 95.65% is 3.0σ below 90-day mean (99.34%),2026-06-13T20:22:22.093114
+accuracy_drop,DHL-WH-IL02,2022-06-10,93.3336,99.3427,4.4679,HIGH,Pick accuracy 93.33% is 4.5σ below 90-day mean (99.34%),2026-06-13T20:22:22.093157
+accuracy_drop,DHL-WH-IL02,2022-07-16,96.1541,99.3829,2.5116,HIGH,Pick accuracy 96.15% is 2.5σ below 90-day mean (99.38%),2026-06-13T20:22:22.093199
+accuracy_drop,DHL-WH-IL02,2022-09-03,96.0002,99.4302,2.8241,HIGH,Pick accuracy 96.00% is 2.8σ below 90-day mean (99.43%),2026-06-13T20:22:22.093241
+accuracy_drop,DHL-WH-IL02,2022-09-10,95.3489,99.4209,3.5718,HIGH,Pick accuracy 95.35% is 3.6σ below 90-day mean (99.42%),2026-06-13T20:22:22.093283
+accuracy_drop,DHL-WH-IL02,2022-09-14,92.1054,99.3596,5.3181,HIGH,Pick accuracy 92.11% is 5.3σ below 90-day mean (99.36%),2026-06-13T20:22:22.093325
+accuracy_drop,DHL-WH-IL02,2022-09-15,94.8277,99.3274,3.1347,HIGH,Pick accuracy 94.83% is 3.1σ below 90-day mean (99.33%),2026-06-13T20:22:22.093367
+accuracy_drop,DHL-WH-IL02,2022-09-19,95.7449,99.2834,2.3932,HIGH,Pick accuracy 95.74% is 2.4σ below 90-day mean (99.28%),2026-06-13T20:22:22.093410
+accuracy_drop,DHL-WH-IL02,2022-09-29,95.5552,99.2561,2.4278,HIGH,Pick accuracy 95.56% is 2.4σ below 90-day mean (99.26%),2026-06-13T20:22:22.093452
+accuracy_drop,DHL-WH-IL02,2022-10-07,95.6522,99.2367,2.299,HIGH,Pick accuracy 95.65% is 2.3σ below 90-day mean (99.24%),2026-06-13T20:22:22.093494
+accuracy_drop,DHL-WH-IL02,2022-11-04,95.7448,99.2575,2.248,HIGH,Pick accuracy 95.74% is 2.2σ below 90-day mean (99.26%),2026-06-13T20:22:22.093536
+accuracy_drop,DHL-WH-IL02,2022-11-10,95.8333,99.1454,2.0574,HIGH,Pick accuracy 95.83% is 2.1σ below 90-day mean (99.15%),2026-06-13T20:22:22.093578
+accuracy_drop,DHL-WH-IL02,2022-11-11,95.4547,99.0949,2.2015,HIGH,Pick accuracy 95.45% is 2.2σ below 90-day mean (99.09%),2026-06-13T20:22:22.093620
+accuracy_drop,DHL-WH-IL02,2022-11-28,95.4546,99.0158,2.0954,HIGH,Pick accuracy 95.45% is 2.1σ below 90-day mean (99.02%),2026-06-13T20:22:22.093661
+accuracy_drop,DHL-WH-IL02,2022-12-18,95.2382,99.2155,2.8694,HIGH,Pick accuracy 95.24% is 2.9σ below 90-day mean (99.22%),2026-06-13T20:22:22.093720
+accuracy_drop,DHL-WH-IL02,2022-12-27,94.5946,99.0978,3.0351,HIGH,Pick accuracy 94.59% is 3.0σ below 90-day mean (99.10%),2026-06-13T20:22:22.093765
+accuracy_drop,DHL-WH-IL02,2023-01-08,94.9999,99.143,2.8487,HIGH,Pick accuracy 95.00% is 2.8σ below 90-day mean (99.14%),2026-06-13T20:22:22.093807
+accuracy_drop,DHL-WH-IL02,2023-01-11,95.4544,99.1507,2.4891,HIGH,Pick accuracy 95.45% is 2.5σ below 90-day mean (99.15%),2026-06-13T20:22:22.093849
+accuracy_drop,DHL-WH-IL02,2023-01-20,95.3487,98.9483,2.3172,HIGH,Pick accuracy 95.35% is 2.3σ below 90-day mean (98.95%),2026-06-13T20:22:22.093891
+accuracy_drop,DHL-WH-IL02,2023-03-12,95.7446,98.9265,2.125,HIGH,Pick accuracy 95.74% is 2.1σ below 90-day mean (98.93%),2026-06-13T20:22:22.093933
+accuracy_drop,DHL-WH-IL02,2023-05-01,97.1429,99.4173,2.1409,HIGH,Pick accuracy 97.14% is 2.1σ below 90-day mean (99.42%),2026-06-13T20:22:22.093975
+accuracy_drop,DHL-WH-IL02,2023-05-02,96.3638,99.401,2.7672,HIGH,Pick accuracy 96.36% is 2.8σ below 90-day mean (99.40%),2026-06-13T20:22:22.094017
+accuracy_drop,DHL-WH-IL02,2023-07-30,95.8334,99.2312,2.9294,HIGH,Pick accuracy 95.83% is 2.9σ below 90-day mean (99.23%),2026-06-13T20:22:22.094060
+accuracy_drop,DHL-WH-IL02,2023-08-08,94.7367,99.292,3.8404,HIGH,Pick accuracy 94.74% is 3.8σ below 90-day mean (99.29%),2026-06-13T20:22:22.094102
+accuracy_drop,DHL-WH-IL02,2023-08-24,95.6521,99.2867,2.9365,HIGH,Pick accuracy 95.65% is 2.9σ below 90-day mean (99.29%),2026-06-13T20:22:22.094143
+accuracy_drop,DHL-WH-IL02,2023-09-14,95.122,99.3738,3.4101,HIGH,Pick accuracy 95.12% is 3.4σ below 90-day mean (99.37%),2026-06-13T20:22:22.094186
+accuracy_drop,DHL-WH-IL02,2023-10-10,94.4444,99.1985,3.4142,HIGH,Pick accuracy 94.44% is 3.4σ below 90-day mean (99.20%),2026-06-13T20:22:22.094228
+accuracy_drop,DHL-WH-IL02,2023-11-30,93.4783,99.3997,4.5313,HIGH,Pick accuracy 93.48% is 4.5σ below 90-day mean (99.40%),2026-06-13T20:22:22.094270
+accuracy_drop,DHL-WH-NJ01,2022-02-01,97.3685,99.5475,2.4683,HIGH,Pick accuracy 97.37% is 2.5σ below 90-day mean (99.55%),2026-06-13T20:22:22.095625
+accuracy_drop,DHL-WH-NJ01,2022-02-06,97.436,99.4165,2.0081,HIGH,Pick accuracy 97.44% is 2.0σ below 90-day mean (99.42%),2026-06-13T20:22:22.095677
+accuracy_drop,DHL-WH-NJ01,2022-03-02,96.9698,99.3003,2.187,HIGH,Pick accuracy 96.97% is 2.2σ below 90-day mean (99.30%),2026-06-13T20:22:22.095743
+accuracy_drop,DHL-WH-NJ01,2022-04-11,95.2381,99.3716,3.7914,HIGH,Pick accuracy 95.24% is 3.8σ below 90-day mean (99.37%),2026-06-13T20:22:22.095790
+accuracy_drop,DHL-WH-NJ01,2022-04-22,95.7447,99.2738,3.0109,HIGH,Pick accuracy 95.74% is 3.0σ below 90-day mean (99.27%),2026-06-13T20:22:22.095853
+accuracy_drop,DHL-WH-NJ01,2022-05-08,95.0001,99.169,3.2943,HIGH,Pick accuracy 95.00% is 3.3σ below 90-day mean (99.17%),2026-06-13T20:22:22.095897
+accuracy_drop,DHL-WH-NJ01,2022-05-28,95.122,99.1888,3.0905,HIGH,Pick accuracy 95.12% is 3.1σ below 90-day mean (99.19%),2026-06-13T20:22:22.095940
+accuracy_drop,DHL-WH-NJ01,2022-07-08,95.8334,98.8903,2.1935,HIGH,Pick accuracy 95.83% is 2.2σ below 90-day mean (98.89%),2026-06-13T20:22:22.096006
+accuracy_drop,DHL-WH-NJ01,2022-07-30,94.1179,98.9969,3.4983,HIGH,Pick accuracy 94.12% is 3.5σ below 90-day mean (99.00%),2026-06-13T20:22:22.096050
+accuracy_drop,DHL-WH-NJ01,2022-08-14,96.3638,99.0877,2.024,HIGH,Pick accuracy 96.36% is 2.0σ below 90-day mean (99.09%),2026-06-13T20:22:22.096094
+accuracy_drop,DHL-WH-NJ01,2022-09-08,96.4285,99.1714,2.1131,HIGH,Pick accuracy 96.43% is 2.1σ below 90-day mean (99.17%),2026-06-13T20:22:22.096136
+accuracy_drop,DHL-WH-NJ01,2022-09-21,94.8716,99.2365,3.2964,HIGH,Pick accuracy 94.87% is 3.3σ below 90-day mean (99.24%),2026-06-13T20:22:22.096179
+accuracy_drop,DHL-WH-NJ01,2022-09-28,95.349,99.2032,2.7849,HIGH,Pick accuracy 95.35% is 2.8σ below 90-day mean (99.20%),2026-06-13T20:22:22.096221
+accuracy_drop,DHL-WH-NJ01,2022-10-18,95.1221,99.1614,2.8447,HIGH,Pick accuracy 95.12% is 2.8σ below 90-day mean (99.16%),2026-06-13T20:22:22.096264
+accuracy_drop,DHL-WH-NJ01,2022-11-18,95.6521,99.2531,2.7308,HIGH,Pick accuracy 95.65% is 2.7σ below 90-day mean (99.25%),2026-06-13T20:22:22.096306
+accuracy_drop,DHL-WH-NJ01,2022-11-22,96.3636,99.2127,2.1091,HIGH,Pick accuracy 96.36% is 2.1σ below 90-day mean (99.21%),2026-06-13T20:22:22.096348
+accuracy_drop,DHL-WH-NJ01,2022-12-10,96.3635,99.2064,2.0969,HIGH,Pick accuracy 96.36% is 2.1σ below 90-day mean (99.21%),2026-06-13T20:22:22.096389
+accuracy_drop,DHL-WH-NJ01,2022-12-14,96.2266,99.1859,2.1339,HIGH,Pick accuracy 96.23% is 2.1σ below 90-day mean (99.19%),2026-06-13T20:22:22.096431
+accuracy_drop,DHL-WH-NJ01,2022-12-25,95.9183,99.1932,2.4112,HIGH,Pick accuracy 95.92% is 2.4σ below 90-day mean (99.19%),2026-06-13T20:22:22.096491
+accuracy_drop,DHL-WH-NJ01,2023-01-02,96.3636,99.2519,2.1897,HIGH,Pick accuracy 96.36% is 2.2σ below 90-day mean (99.25%),2026-06-13T20:22:22.096534
+accuracy_drop,DHL-WH-NJ01,2023-01-22,95.6521,99.2761,2.8341,HIGH,Pick accuracy 95.65% is 2.8σ below 90-day mean (99.28%),2026-06-13T20:22:22.096576
+accuracy_drop,DHL-WH-NJ01,2023-01-25,95.4544,99.2256,2.8181,HIGH,Pick accuracy 95.45% is 2.8σ below 90-day mean (99.23%),2026-06-13T20:22:22.096618
+accuracy_drop,DHL-WH-NJ01,2023-02-08,95.3491,99.2261,2.8028,HIGH,Pick accuracy 95.35% is 2.8σ below 90-day mean (99.23%),2026-06-13T20:22:22.096660
+accuracy_drop,DHL-WH-NJ01,2023-02-28,93.7498,99.1897,3.7692,HIGH,Pick accuracy 93.75% is 3.8σ below 90-day mean (99.19%),2026-06-13T20:22:22.096712
+accuracy_drop,DHL-WH-NJ01,2023-03-27,95.9999,99.2422,2.3257,HIGH,Pick accuracy 96.00% is 2.3σ below 90-day mean (99.24%),2026-06-13T20:22:22.096755
+accuracy_drop,DHL-WH-NJ01,2023-04-16,95.652,99.2517,2.5795,HIGH,Pick accuracy 95.65% is 2.6σ below 90-day mean (99.25%),2026-06-13T20:22:22.096797
+accuracy_drop,DHL-WH-NJ01,2023-04-20,94.1175,99.2058,3.4072,HIGH,Pick accuracy 94.12% is 3.4σ below 90-day mean (99.21%),2026-06-13T20:22:22.096839
+accuracy_drop,DHL-WH-NJ01,2023-07-11,95.5556,99.3322,3.0906,HIGH,Pick accuracy 95.56% is 3.1σ below 90-day mean (99.33%),2026-06-13T20:22:22.096881
+accuracy_drop,DHL-WH-NJ01,2023-08-04,95.2381,99.414,3.7972,HIGH,Pick accuracy 95.24% is 3.8σ below 90-day mean (99.41%),2026-06-13T20:22:22.096923
+accuracy_drop,DHL-WH-NJ01,2023-10-03,96.8751,99.3366,2.1102,HIGH,Pick accuracy 96.88% is 2.1σ below 90-day mean (99.34%),2026-06-13T20:22:22.096965
+accuracy_drop,DHL-WH-NJ01,2023-10-23,94.2858,99.2613,3.9782,HIGH,Pick accuracy 94.29% is 4.0σ below 90-day mean (99.26%),2026-06-13T20:22:22.097007
+accuracy_drop,DHL-WH-NJ01,2023-11-02,95.5556,99.3151,3.0781,HIGH,Pick accuracy 95.56% is 3.1σ below 90-day mean (99.32%),2026-06-13T20:22:22.097049
+accuracy_drop,DHL-WH-TX03,2022-01-07,97.5001,99.6429,2.2678,HIGH,Pick accuracy 97.50% is 2.3σ below 90-day mean (99.64%),2026-06-13T20:22:22.098348
+accuracy_drop,DHL-WH-TX03,2022-01-23,95.6521,99.0452,2.5831,HIGH,Pick accuracy 95.65% is 2.6σ below 90-day mean (99.05%),2026-06-13T20:22:22.098399
+accuracy_drop,DHL-WH-TX03,2022-01-29,95.8335,98.842,2.1281,HIGH,Pick accuracy 95.83% is 2.1σ below 90-day mean (98.84%),2026-06-13T20:22:22.098445
+accuracy_drop,DHL-WH-TX03,2022-03-21,96.6102,99.349,2.3627,HIGH,Pick accuracy 96.61% is 2.4σ below 90-day mean (99.35%),2026-06-13T20:22:22.098491
+accuracy_drop,DHL-WH-TX03,2022-03-27,96.0002,99.3026,2.7586,HIGH,Pick accuracy 96.00% is 2.8σ below 90-day mean (99.30%),2026-06-13T20:22:22.098534
+accuracy_drop,DHL-WH-TX03,2022-04-07,95.1221,99.2406,3.2681,HIGH,Pick accuracy 95.12% is 3.3σ below 90-day mean (99.24%),2026-06-13T20:22:22.098576
+accuracy_drop,DHL-WH-TX03,2022-05-27,95.2382,99.2464,3.2871,HIGH,Pick accuracy 95.24% is 3.3σ below 90-day mean (99.25%),2026-06-13T20:22:22.098618
+accuracy_drop,DHL-WH-TX03,2022-06-20,95.9183,99.3532,2.8554,HIGH,Pick accuracy 95.92% is 2.9σ below 90-day mean (99.35%),2026-06-13T20:22:22.098660
+accuracy_drop,DHL-WH-TX03,2022-07-03,95.122,99.3374,3.3983,HIGH,Pick accuracy 95.12% is 3.4σ below 90-day mean (99.34%),2026-06-13T20:22:22.098714
+accuracy_drop,DHL-WH-TX03,2022-07-08,95.9183,99.3694,2.8644,HIGH,Pick accuracy 95.92% is 2.9σ below 90-day mean (99.37%),2026-06-13T20:22:22.098757
+accuracy_drop,DHL-WH-TX03,2022-08-13,95.1219,99.2019,3.0548,HIGH,Pick accuracy 95.12% is 3.1σ below 90-day mean (99.20%),2026-06-13T20:22:22.098800
+accuracy_drop,DHL-WH-TX03,2022-09-07,95.6521,99.1411,2.5821,HIGH,Pick accuracy 95.65% is 2.6σ below 90-day mean (99.14%),2026-06-13T20:22:22.098842
+accuracy_drop,DHL-WH-TX03,2022-09-21,93.7501,99.0512,3.6472,HIGH,Pick accuracy 93.75% is 3.6σ below 90-day mean (99.05%),2026-06-13T20:22:22.098887
+accuracy_drop,DHL-WH-TX03,2022-10-21,93.182,99.0799,4.0162,HIGH,Pick accuracy 93.18% is 4.0σ below 90-day mean (99.08%),2026-06-13T20:22:22.098930
+accuracy_drop,DHL-WH-TX03,2022-11-12,95.4545,99.1628,2.5804,HIGH,Pick accuracy 95.45% is 2.6σ below 90-day mean (99.16%),2026-06-13T20:22:22.098973
+accuracy_drop,DHL-WH-TX03,2022-11-18,94.3396,99.1338,3.1765,HIGH,Pick accuracy 94.34% is 3.2σ below 90-day mean (99.13%),2026-06-13T20:22:22.099015
+accuracy_drop,DHL-WH-TX03,2022-11-21,92.8574,99.058,3.7767,HIGH,Pick accuracy 92.86% is 3.8σ below 90-day mean (99.06%),2026-06-13T20:22:22.099058
+accuracy_drop,DHL-WH-TX03,2022-12-14,95.8335,99.1387,2.0393,HIGH,Pick accuracy 95.83% is 2.0σ below 90-day mean (99.14%),2026-06-13T20:22:22.099099
+accuracy_drop,DHL-WH-TX03,2023-01-02,95.349,99.2104,2.4833,HIGH,Pick accuracy 95.35% is 2.5σ below 90-day mean (99.21%),2026-06-13T20:22:22.099142
+accuracy_drop,DHL-WH-TX03,2023-01-08,95.1221,99.1425,2.4739,HIGH,Pick accuracy 95.12% is 2.5σ below 90-day mean (99.14%),2026-06-13T20:22:22.099184
+accuracy_drop,DHL-WH-TX03,2023-01-26,95.4545,99.1467,2.3578,HIGH,Pick accuracy 95.45% is 2.4σ below 90-day mean (99.15%),2026-06-13T20:22:22.099234
+accuracy_drop,DHL-WH-TX03,2023-02-02,95.6522,99.121,2.1625,HIGH,Pick accuracy 95.65% is 2.2σ below 90-day mean (99.12%),2026-06-13T20:22:22.099276
+accuracy_drop,DHL-WH-TX03,2023-03-04,96.4286,99.1861,2.0338,HIGH,Pick accuracy 96.43% is 2.0σ below 90-day mean (99.19%),2026-06-13T20:22:22.099318
+accuracy_drop,DHL-WH-TX03,2023-04-17,96.0787,99.3265,2.7719,HIGH,Pick accuracy 96.08% is 2.8σ below 90-day mean (99.33%),2026-06-13T20:22:22.099360
+accuracy_drop,DHL-WH-TX03,2023-04-27,96.0786,99.3399,2.8621,HIGH,Pick accuracy 96.08% is 2.9σ below 90-day mean (99.34%),2026-06-13T20:22:22.099401
+accuracy_drop,DHL-WH-TX03,2023-05-02,95.122,99.2889,3.4229,HIGH,Pick accuracy 95.12% is 3.4σ below 90-day mean (99.29%),2026-06-13T20:22:22.099443
+accuracy_drop,DHL-WH-TX03,2023-05-17,95.1219,99.3049,3.3997,HIGH,Pick accuracy 95.12% is 3.4σ below 90-day mean (99.30%),2026-06-13T20:22:22.099485
+accuracy_drop,DHL-WH-TX03,2023-05-24,96.2963,99.2179,2.2859,HIGH,Pick accuracy 96.30% is 2.3σ below 90-day mean (99.22%),2026-06-13T20:22:22.099527
+accuracy_drop,DHL-WH-TX03,2023-08-04,96.9697,99.4267,2.2402,HIGH,Pick accuracy 96.97% is 2.2σ below 90-day mean (99.43%),2026-06-13T20:22:22.099568
+accuracy_drop,DHL-WH-TX03,2023-08-08,97.0588,99.4182,2.1213,HIGH,Pick accuracy 97.06% is 2.1σ below 90-day mean (99.42%),2026-06-13T20:22:22.099610
+accuracy_drop,DHL-WH-TX03,2023-08-27,95.3489,99.5264,4.0818,HIGH,Pick accuracy 95.35% is 4.1σ below 90-day mean (99.53%),2026-06-13T20:22:22.099652
+accuracy_drop,DHL-WH-TX03,2023-09-10,93.7502,99.4274,4.6984,HIGH,Pick accuracy 93.75% is 4.7σ below 90-day mean (99.43%),2026-06-13T20:22:22.099703
+accuracy_drop,DHL-WH-TX03,2023-09-14,94.4444,99.3534,3.7479,HIGH,Pick accuracy 94.44% is 3.7σ below 90-day mean (99.35%),2026-06-13T20:22:22.099747
+accuracy_drop,DHL-WH-TX03,2023-09-21,95.8332,99.2532,2.4793,HIGH,Pick accuracy 95.83% is 2.5σ below 90-day mean (99.25%),2026-06-13T20:22:22.099789
+accuracy_drop,DHL-WH-TX03,2023-09-26,93.9394,99.2085,3.5531,HIGH,Pick accuracy 93.94% is 3.6σ below 90-day mean (99.21%),2026-06-13T20:22:22.099831
+accuracy_drop,DHL-WH-TX03,2023-10-20,95.7449,99.1556,2.2291,HIGH,Pick accuracy 95.74% is 2.2σ below 90-day mean (99.16%),2026-06-13T20:22:22.099873
+accuracy_drop,DHL-WH-TX03,2023-11-11,95.4545,99.1172,2.3323,HIGH,Pick accuracy 95.45% is 2.3σ below 90-day mean (99.12%),2026-06-13T20:22:22.099915
+accuracy_drop,DHL-WH-TX03,2023-11-23,95.2381,99.0132,2.321,HIGH,Pick accuracy 95.24% is 2.3σ below 90-day mean (99.01%),2026-06-13T20:22:22.099957
+accuracy_drop,DHL-WH-TX03,2023-12-14,96.3638,99.2045,2.0105,HIGH,Pick accuracy 96.36% is 2.0σ below 90-day mean (99.20%),2026-06-13T20:22:22.100001
+operator_accuracy_drop,DHL-WH-IL02,2022-05-23,0.0,100.0,100.0,HIGH,Operator 1 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.137547
+operator_accuracy_drop,DHL-WH-IL02,2022-09-19,50.0,100.0,50.0,HIGH,Operator 1 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.137600
+operator_accuracy_drop,DHL-WH-IL02,2023-01-14,0.0,100.0,100.0,HIGH,Operator 1 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.137645
+operator_accuracy_drop,DHL-WH-IL02,2023-08-08,0.0,100.0,100.0,HIGH,Operator 1 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.137688
+operator_accuracy_drop,DHL-WH-IL02,2023-11-30,0.0,100.0,100.0,HIGH,Operator 1 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.137749
+operator_accuracy_drop,DHL-WH-NJ01,2022-09-08,0.0,100.0,100.0,HIGH,Operator 1 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.138832
+operator_accuracy_drop,DHL-WH-NJ01,2022-12-07,66.667,100.0,33.333,HIGH,Operator 1 accuracy 66.67% is 33.3pp below their 30-day average (100.00%),2026-06-13T20:22:22.138884
+operator_accuracy_drop,DHL-WH-NJ01,2023-05-12,0.0,100.0,100.0,HIGH,Operator 1 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.138927
+operator_accuracy_drop,DHL-WH-NJ01,2023-07-24,0.0,100.0,100.0,HIGH,Operator 1 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.138967
+operator_accuracy_drop,DHL-WH-TX03,2022-05-20,0.0,100.0,100.0,HIGH,Operator 1 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.139988
+operator_accuracy_drop,DHL-WH-TX03,2023-03-03,50.0,100.0,50.0,HIGH,Operator 1 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.140033
+operator_accuracy_drop,DHL-WH-TX03,2023-07-17,0.0,100.0,100.0,HIGH,Operator 1 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.140074
+operator_accuracy_drop,DHL-WH-TX03,2023-09-10,0.0,100.0,100.0,HIGH,Operator 1 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.140114
+operator_accuracy_drop,DHL-WH-TX03,2023-09-12,50.0,96.6667,46.6667,HIGH,Operator 1 accuracy 50.00% is 46.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.140153
+operator_accuracy_drop,DHL-WH-TX03,2023-11-07,0.0,100.0,100.0,HIGH,Operator 1 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.140190
+operator_accuracy_drop,DHL-WH-TX03,2023-11-27,50.0,96.6667,46.6667,HIGH,Operator 1 accuracy 50.00% is 46.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.140228
+operator_accuracy_drop,DHL-WH-TX03,2023-12-15,0.0,98.3333,98.3333,HIGH,Operator 1 accuracy 0.00% is 98.3pp below their 30-day average (98.33%),2026-06-13T20:22:22.140265
+operator_accuracy_drop,DHL-WH-IL02,2022-04-13,75.0,100.0,25.0,HIGH,Operator 2 accuracy 75.00% is 25.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.141263
+operator_accuracy_drop,DHL-WH-IL02,2022-11-10,0.0,100.0,100.0,HIGH,Operator 2 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.141307
+operator_accuracy_drop,DHL-WH-IL02,2023-10-13,0.0,100.0,100.0,HIGH,Operator 2 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.141349
+operator_accuracy_drop,DHL-WH-NJ01,2022-02-03,0.0,100.0,100.0,HIGH,Operator 2 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.142356
+operator_accuracy_drop,DHL-WH-NJ01,2022-05-03,0.0,100.0,100.0,HIGH,Operator 2 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.142399
+operator_accuracy_drop,DHL-WH-NJ01,2022-06-16,0.0,100.0,100.0,HIGH,Operator 2 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.142437
+operator_accuracy_drop,DHL-WH-NJ01,2022-07-21,0.0,96.6667,96.6667,HIGH,Operator 2 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.142475
+operator_accuracy_drop,DHL-WH-NJ01,2022-09-27,0.0,100.0,100.0,HIGH,Operator 2 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.142513
+operator_accuracy_drop,DHL-WH-NJ01,2022-10-14,0.0,96.6667,96.6667,HIGH,Operator 2 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.142551
+operator_accuracy_drop,DHL-WH-NJ01,2022-11-18,0.0,96.6667,96.6667,HIGH,Operator 2 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.142588
+operator_accuracy_drop,DHL-WH-NJ01,2022-11-22,0.0,93.3333,93.3333,HIGH,Operator 2 accuracy 0.00% is 93.3pp below their 30-day average (93.33%),2026-06-13T20:22:22.142626
+operator_accuracy_drop,DHL-WH-NJ01,2023-03-27,50.0,100.0,50.0,HIGH,Operator 2 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.142663
+operator_accuracy_drop,DHL-WH-TX03,2022-03-16,0.0,100.0,100.0,HIGH,Operator 2 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.143631
+operator_accuracy_drop,DHL-WH-TX03,2023-01-02,0.0,100.0,100.0,HIGH,Operator 2 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.143675
+operator_accuracy_drop,DHL-WH-IL02,2022-09-26,50.0,100.0,50.0,HIGH,Operator 3 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.144622
+operator_accuracy_drop,DHL-WH-IL02,2023-08-21,0.0,100.0,100.0,HIGH,Operator 3 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.144667
+operator_accuracy_drop,DHL-WH-NJ01,2023-08-04,0.0,100.0,100.0,HIGH,Operator 3 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.145671
+operator_accuracy_drop,DHL-WH-TX03,2022-02-09,0.0,100.0,100.0,HIGH,Operator 3 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.146686
+operator_accuracy_drop,DHL-WH-TX03,2022-10-16,0.0,100.0,100.0,HIGH,Operator 3 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.146740
+operator_accuracy_drop,DHL-WH-TX03,2023-04-17,0.0,100.0,100.0,HIGH,Operator 3 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.146779
+operator_accuracy_drop,DHL-WH-TX03,2023-05-21,0.0,96.6667,96.6667,HIGH,Operator 3 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.146818
+operator_accuracy_drop,DHL-WH-TX03,2023-09-19,50.0,100.0,50.0,HIGH,Operator 3 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.146868
+operator_accuracy_drop,DHL-WH-IL02,2023-04-26,0.0,100.0,100.0,HIGH,Operator 4 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.147833
+operator_accuracy_drop,DHL-WH-IL02,2023-05-02,0.0,96.6667,96.6667,HIGH,Operator 4 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.147877
+operator_accuracy_drop,DHL-WH-IL02,2023-06-04,0.0,93.3333,93.3333,HIGH,Operator 4 accuracy 0.00% is 93.3pp below their 30-day average (93.33%),2026-06-13T20:22:22.147920
+operator_accuracy_drop,DHL-WH-IL02,2023-07-13,0.0,96.6667,96.6667,HIGH,Operator 4 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.147959
+operator_accuracy_drop,DHL-WH-IL02,2023-08-09,50.0,96.6667,46.6667,HIGH,Operator 4 accuracy 50.00% is 46.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.147996
+operator_accuracy_drop,DHL-WH-NJ01,2022-02-06,0.0,100.0,100.0,HIGH,Operator 4 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.148955
+operator_accuracy_drop,DHL-WH-NJ01,2022-08-01,0.0,100.0,100.0,HIGH,Operator 4 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.148999
+operator_accuracy_drop,DHL-WH-NJ01,2022-11-17,0.0,100.0,100.0,HIGH,Operator 4 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.149040
+operator_accuracy_drop,DHL-WH-NJ01,2022-12-17,0.0,96.6667,96.6667,HIGH,Operator 4 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.149080
+operator_accuracy_drop,DHL-WH-NJ01,2023-09-04,50.0,100.0,50.0,HIGH,Operator 4 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.149119
+operator_accuracy_drop,DHL-WH-TX03,2022-07-17,0.0,100.0,100.0,HIGH,Operator 4 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.150076
+operator_accuracy_drop,DHL-WH-TX03,2022-11-10,50.0,100.0,50.0,HIGH,Operator 4 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.150121
+operator_accuracy_drop,DHL-WH-TX03,2022-11-18,50.0,98.3333,48.3333,HIGH,Operator 4 accuracy 50.00% is 48.3pp below their 30-day average (98.33%),2026-06-13T20:22:22.150163
+operator_accuracy_drop,DHL-WH-TX03,2022-12-11,0.0,96.6667,96.6667,HIGH,Operator 4 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.150204
+operator_accuracy_drop,DHL-WH-TX03,2023-02-06,0.0,100.0,100.0,HIGH,Operator 4 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.150243
+operator_accuracy_drop,DHL-WH-TX03,2023-08-27,0.0,100.0,100.0,HIGH,Operator 4 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.150280
+operator_accuracy_drop,DHL-WH-NJ01,2022-04-08,0.0,100.0,100.0,HIGH,Operator 5 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.152111
+operator_accuracy_drop,DHL-WH-NJ01,2023-11-22,0.0,100.0,100.0,HIGH,Operator 5 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.152154
+operator_accuracy_drop,DHL-WH-TX03,2022-01-25,0.0,100.0,100.0,HIGH,Operator 5 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.153115
+operator_accuracy_drop,DHL-WH-TX03,2022-04-17,0.0,100.0,100.0,HIGH,Operator 5 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.153158
+operator_accuracy_drop,DHL-WH-TX03,2022-11-03,50.0,100.0,50.0,HIGH,Operator 5 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.153199
+operator_accuracy_drop,DHL-WH-TX03,2023-02-27,0.0,100.0,100.0,HIGH,Operator 5 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.153239
+operator_accuracy_drop,DHL-WH-TX03,2023-11-28,0.0,100.0,100.0,HIGH,Operator 5 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.153276
+operator_accuracy_drop,DHL-WH-TX03,2023-12-14,0.0,96.6667,96.6667,HIGH,Operator 5 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.153313
+operator_accuracy_drop,DHL-WH-IL02,2022-01-27,66.667,100.0,33.333,HIGH,Operator 6 accuracy 66.67% is 33.3pp below their 30-day average (100.00%),2026-06-13T20:22:22.154251
+operator_accuracy_drop,DHL-WH-IL02,2022-02-23,50.0,98.8889,48.8889,HIGH,Operator 6 accuracy 50.00% is 48.9pp below their 30-day average (98.89%),2026-06-13T20:22:22.154295
+operator_accuracy_drop,DHL-WH-IL02,2022-12-30,0.0,100.0,100.0,HIGH,Operator 6 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.154336
+operator_accuracy_drop,DHL-WH-NJ01,2023-03-19,0.0,100.0,100.0,HIGH,Operator 6 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.155271
+operator_accuracy_drop,DHL-WH-NJ01,2023-04-03,50.0,96.6667,46.6667,HIGH,Operator 6 accuracy 50.00% is 46.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.155314
+operator_accuracy_drop,DHL-WH-NJ01,2023-10-01,0.0,100.0,100.0,HIGH,Operator 6 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.155353
+operator_accuracy_drop,DHL-WH-TX03,2022-01-14,50.0,85.7143,35.7143,HIGH,Operator 6 accuracy 50.00% is 35.7pp below their 30-day average (85.71%),2026-06-13T20:22:22.156275
+operator_accuracy_drop,DHL-WH-TX03,2023-04-16,0.0,100.0,100.0,HIGH,Operator 6 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.156319
+operator_accuracy_drop,DHL-WH-TX03,2023-06-12,0.0,100.0,100.0,HIGH,Operator 6 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.156360
+operator_accuracy_drop,DHL-WH-TX03,2023-07-28,0.0,100.0,100.0,HIGH,Operator 6 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.156400
+operator_accuracy_drop,DHL-WH-TX03,2023-12-31,0.0,100.0,100.0,HIGH,Operator 6 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.156436
+operator_accuracy_drop,DHL-WH-IL02,2022-02-06,0.0,100.0,100.0,HIGH,Operator 7 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.157363
+operator_accuracy_drop,DHL-WH-IL02,2022-04-14,0.0,100.0,100.0,HIGH,Operator 7 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.157406
+operator_accuracy_drop,DHL-WH-IL02,2022-08-05,0.0,100.0,100.0,HIGH,Operator 7 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.157446
+operator_accuracy_drop,DHL-WH-IL02,2022-12-14,50.0,100.0,50.0,HIGH,Operator 7 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.157485
+operator_accuracy_drop,DHL-WH-IL02,2023-02-20,50.0,100.0,50.0,HIGH,Operator 7 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.157522
+operator_accuracy_drop,DHL-WH-IL02,2023-08-30,0.0,100.0,100.0,HIGH,Operator 7 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.157559
+operator_accuracy_drop,DHL-WH-NJ01,2022-03-10,0.0,100.0,100.0,HIGH,Operator 7 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.158522
+operator_accuracy_drop,DHL-WH-NJ01,2022-06-20,50.0,100.0,50.0,HIGH,Operator 7 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.158565
+operator_accuracy_drop,DHL-WH-NJ01,2022-10-19,66.667,100.0,33.333,HIGH,Operator 7 accuracy 66.67% is 33.3pp below their 30-day average (100.00%),2026-06-13T20:22:22.158606
+operator_accuracy_drop,DHL-WH-NJ01,2023-03-17,0.0,100.0,100.0,HIGH,Operator 7 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.158644
+operator_accuracy_drop,DHL-WH-NJ01,2023-08-24,0.0,100.0,100.0,HIGH,Operator 7 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.158681
+operator_accuracy_drop,DHL-WH-NJ01,2023-11-04,0.0,100.0,100.0,HIGH,Operator 7 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.158729
+operator_accuracy_drop,DHL-WH-TX03,2022-07-03,0.0,100.0,100.0,HIGH,Operator 7 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.159640
+operator_accuracy_drop,DHL-WH-TX03,2022-07-26,66.667,96.6667,29.9997,HIGH,Operator 7 accuracy 66.67% is 30.0pp below their 30-day average (96.67%),2026-06-13T20:22:22.159684
+operator_accuracy_drop,DHL-WH-TX03,2023-01-08,66.667,100.0,33.333,HIGH,Operator 7 accuracy 66.67% is 33.3pp below their 30-day average (100.00%),2026-06-13T20:22:22.159735
+operator_accuracy_drop,DHL-WH-TX03,2023-06-29,0.0,100.0,100.0,HIGH,Operator 7 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.159774
+operator_accuracy_drop,DHL-WH-IL02,2022-03-10,66.667,100.0,33.333,HIGH,Operator 8 accuracy 66.67% is 33.3pp below their 30-day average (100.00%),2026-06-13T20:22:22.160683
+operator_accuracy_drop,DHL-WH-IL02,2022-04-07,0.0,98.8889,98.8889,HIGH,Operator 8 accuracy 0.00% is 98.9pp below their 30-day average (98.89%),2026-06-13T20:22:22.160738
+operator_accuracy_drop,DHL-WH-IL02,2023-03-12,50.0,100.0,50.0,HIGH,Operator 8 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.160778
+operator_accuracy_drop,DHL-WH-IL02,2023-10-01,0.0,100.0,100.0,HIGH,Operator 8 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.160818
+operator_accuracy_drop,DHL-WH-NJ01,2022-02-17,0.0,100.0,100.0,HIGH,Operator 8 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.161741
+operator_accuracy_drop,DHL-WH-NJ01,2022-09-28,0.0,100.0,100.0,HIGH,Operator 8 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.161786
+operator_accuracy_drop,DHL-WH-NJ01,2022-10-18,0.0,96.6667,96.6667,HIGH,Operator 8 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.161827
+operator_accuracy_drop,DHL-WH-NJ01,2023-04-09,0.0,100.0,100.0,HIGH,Operator 8 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.161867
+operator_accuracy_drop,DHL-WH-NJ01,2023-07-11,0.0,100.0,100.0,HIGH,Operator 8 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.161904
+operator_accuracy_drop,DHL-WH-TX03,2022-07-29,0.0,100.0,100.0,HIGH,Operator 8 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.162862
+operator_accuracy_drop,DHL-WH-TX03,2022-09-01,0.0,100.0,100.0,HIGH,Operator 8 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.162926
+operator_accuracy_drop,DHL-WH-TX03,2023-04-02,0.0,100.0,100.0,HIGH,Operator 8 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.162966
+operator_accuracy_drop,DHL-WH-TX03,2023-10-20,50.0,100.0,50.0,HIGH,Operator 8 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.163006
+operator_accuracy_drop,DHL-WH-TX03,2023-11-11,0.0,98.3333,98.3333,HIGH,Operator 8 accuracy 0.00% is 98.3pp below their 30-day average (98.33%),2026-06-13T20:22:22.163044
+operator_accuracy_drop,DHL-WH-IL02,2022-06-10,0.0,100.0,100.0,HIGH,Operator 9 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.164081
+operator_accuracy_drop,DHL-WH-IL02,2022-07-30,0.0,100.0,100.0,HIGH,Operator 9 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.164124
+operator_accuracy_drop,DHL-WH-IL02,2023-05-08,0.0,100.0,100.0,HIGH,Operator 9 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.164164
+operator_accuracy_drop,DHL-WH-IL02,2023-07-22,50.0,100.0,50.0,HIGH,Operator 9 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.164203
+operator_accuracy_drop,DHL-WH-NJ01,2022-02-04,0.0,100.0,100.0,HIGH,Operator 9 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.165138
+operator_accuracy_drop,DHL-WH-NJ01,2022-10-03,50.0,100.0,50.0,HIGH,Operator 9 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.165181
+operator_accuracy_drop,DHL-WH-NJ01,2023-10-14,0.0,100.0,100.0,HIGH,Operator 9 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.165222
+operator_accuracy_drop,DHL-WH-TX03,2022-09-30,0.0,100.0,100.0,HIGH,Operator 9 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.166146
+operator_accuracy_drop,DHL-WH-TX03,2023-04-13,0.0,100.0,100.0,HIGH,Operator 9 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.166188
+operator_accuracy_drop,DHL-WH-IL02,2022-09-18,0.0,100.0,100.0,HIGH,Operator 10 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.167117
+operator_accuracy_drop,DHL-WH-IL02,2022-11-05,0.0,100.0,100.0,HIGH,Operator 10 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.167161
+operator_accuracy_drop,DHL-WH-IL02,2023-08-19,0.0,100.0,100.0,HIGH,Operator 10 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.167203
+operator_accuracy_drop,DHL-WH-IL02,2023-08-24,50.0,96.6667,46.6667,HIGH,Operator 10 accuracy 50.00% is 46.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.167245
+operator_accuracy_drop,DHL-WH-IL02,2023-08-25,50.0,95.0,45.0,HIGH,Operator 10 accuracy 50.00% is 45.0pp below their 30-day average (95.00%),2026-06-13T20:22:22.167283
+operator_accuracy_drop,DHL-WH-NJ01,2022-06-11,0.0,100.0,100.0,HIGH,Operator 10 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.168224
+operator_accuracy_drop,DHL-WH-NJ01,2022-10-05,0.0,100.0,100.0,HIGH,Operator 10 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.168267
+operator_accuracy_drop,DHL-WH-NJ01,2023-08-16,0.0,100.0,100.0,HIGH,Operator 10 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.168309
+operator_accuracy_drop,DHL-WH-TX03,2022-10-21,50.0,100.0,50.0,HIGH,Operator 10 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.169249
+operator_accuracy_drop,DHL-WH-IL02,2022-01-27,50.0,100.0,50.0,HIGH,Operator 11 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.170184
+operator_accuracy_drop,DHL-WH-NJ01,2022-12-09,0.0,100.0,100.0,HIGH,Operator 11 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.171113
+operator_accuracy_drop,DHL-WH-NJ01,2023-03-22,0.0,100.0,100.0,HIGH,Operator 11 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.171157
+operator_accuracy_drop,DHL-WH-NJ01,2023-06-29,0.0,100.0,100.0,HIGH,Operator 11 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.171198
+operator_accuracy_drop,DHL-WH-NJ01,2023-08-18,50.0,100.0,50.0,HIGH,Operator 11 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.171237
+operator_accuracy_drop,DHL-WH-NJ01,2023-11-27,50.0,100.0,50.0,HIGH,Operator 11 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.171273
+operator_accuracy_drop,DHL-WH-TX03,2022-08-06,0.0,100.0,100.0,HIGH,Operator 11 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.172199
+operator_accuracy_drop,DHL-WH-TX03,2023-03-14,0.0,100.0,100.0,HIGH,Operator 11 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.172243
+operator_accuracy_drop,DHL-WH-IL02,2022-05-02,0.0,100.0,100.0,HIGH,Operator 12 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.173155
+operator_accuracy_drop,DHL-WH-NJ01,2022-05-08,0.0,100.0,100.0,HIGH,Operator 12 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.174067
+operator_accuracy_drop,DHL-WH-NJ01,2022-11-18,50.0,100.0,50.0,HIGH,Operator 12 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.174109
+operator_accuracy_drop,DHL-WH-NJ01,2023-04-20,0.0,100.0,100.0,HIGH,Operator 12 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.174149
+operator_accuracy_drop,DHL-WH-NJ01,2023-11-28,0.0,100.0,100.0,HIGH,Operator 12 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.174188
+operator_accuracy_drop,DHL-WH-NJ01,2023-12-29,0.0,96.6667,96.6667,HIGH,Operator 12 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.174226
+operator_accuracy_drop,DHL-WH-TX03,2022-03-25,0.0,100.0,100.0,HIGH,Operator 12 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.175177
+operator_accuracy_drop,DHL-WH-TX03,2022-10-19,0.0,100.0,100.0,HIGH,Operator 12 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.175220
+operator_accuracy_drop,DHL-WH-TX03,2022-11-21,0.0,96.6667,96.6667,HIGH,Operator 12 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.175260
+operator_accuracy_drop,DHL-WH-TX03,2023-10-21,50.0,100.0,50.0,HIGH,Operator 12 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.175299
+operator_accuracy_drop,DHL-WH-IL02,2022-05-13,0.0,100.0,100.0,HIGH,Operator 13 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.176220
+operator_accuracy_drop,DHL-WH-IL02,2022-05-26,0.0,96.6667,96.6667,HIGH,Operator 13 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.176265
+operator_accuracy_drop,DHL-WH-IL02,2022-11-06,0.0,100.0,100.0,HIGH,Operator 13 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.176305
+operator_accuracy_drop,DHL-WH-IL02,2023-04-06,50.0,100.0,50.0,HIGH,Operator 13 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.176345
+operator_accuracy_drop,DHL-WH-IL02,2023-06-16,0.0,100.0,100.0,HIGH,Operator 13 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.176382
+operator_accuracy_drop,DHL-WH-IL02,2023-07-03,0.0,96.6667,96.6667,HIGH,Operator 13 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.176418
+operator_accuracy_drop,DHL-WH-NJ01,2022-11-23,50.0,100.0,50.0,HIGH,Operator 13 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.177330
+operator_accuracy_drop,DHL-WH-NJ01,2023-12-16,0.0,100.0,100.0,HIGH,Operator 13 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.177375
+operator_accuracy_drop,DHL-WH-NJ01,2023-12-28,0.0,96.6667,96.6667,HIGH,Operator 13 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.177415
+operator_accuracy_drop,DHL-WH-TX03,2022-07-20,0.0,100.0,100.0,HIGH,Operator 13 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.178340
+operator_accuracy_drop,DHL-WH-TX03,2022-09-28,50.0,100.0,50.0,HIGH,Operator 13 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.178382
+operator_accuracy_drop,DHL-WH-TX03,2023-05-02,0.0,100.0,100.0,HIGH,Operator 13 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.178420
+operator_accuracy_drop,DHL-WH-TX03,2023-10-08,0.0,100.0,100.0,HIGH,Operator 13 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.178456
+operator_accuracy_drop,DHL-WH-IL02,2022-07-17,66.667,100.0,33.333,HIGH,Operator 14 accuracy 66.67% is 33.3pp below their 30-day average (100.00%),2026-06-13T20:22:22.179420
+operator_accuracy_drop,DHL-WH-NJ01,2022-09-21,0.0,100.0,100.0,HIGH,Operator 14 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.180412
+operator_accuracy_drop,DHL-WH-NJ01,2023-01-11,0.0,100.0,100.0,HIGH,Operator 14 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.180456
+operator_accuracy_drop,DHL-WH-NJ01,2023-02-02,0.0,96.6667,96.6667,HIGH,Operator 14 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.180498
+operator_accuracy_drop,DHL-WH-NJ01,2023-03-27,0.0,100.0,100.0,HIGH,Operator 14 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.180537
+operator_accuracy_drop,DHL-WH-NJ01,2023-10-17,0.0,100.0,100.0,HIGH,Operator 14 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.180574
+operator_accuracy_drop,DHL-WH-NJ01,2023-12-26,50.0,100.0,50.0,HIGH,Operator 14 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.180611
+operator_accuracy_drop,DHL-WH-TX03,2022-08-23,0.0,100.0,100.0,HIGH,Operator 14 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.181527
+operator_accuracy_drop,DHL-WH-TX03,2023-04-05,0.0,100.0,100.0,HIGH,Operator 14 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.181570
+operator_accuracy_drop,DHL-WH-IL02,2022-06-27,0.0,100.0,100.0,HIGH,Operator 15 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.182490
+operator_accuracy_drop,DHL-WH-IL02,2022-07-03,0.0,96.6667,96.6667,HIGH,Operator 15 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.182532
+operator_accuracy_drop,DHL-WH-IL02,2022-10-23,66.667,100.0,33.333,HIGH,Operator 15 accuracy 66.67% is 33.3pp below their 30-day average (100.00%),2026-06-13T20:22:22.182571
+operator_accuracy_drop,DHL-WH-NJ01,2023-07-06,0.0,100.0,100.0,HIGH,Operator 15 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.183487
+operator_accuracy_drop,DHL-WH-TX03,2022-03-21,66.667,100.0,33.333,HIGH,Operator 15 accuracy 66.67% is 33.3pp below their 30-day average (100.00%),2026-06-13T20:22:22.184389
+operator_accuracy_drop,DHL-WH-TX03,2023-04-27,50.0,100.0,50.0,HIGH,Operator 15 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.184433
+operator_accuracy_drop,DHL-WH-TX03,2023-09-07,0.0,100.0,100.0,HIGH,Operator 15 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.184474
+operator_accuracy_drop,DHL-WH-IL02,2023-05-01,0.0,100.0,100.0,HIGH,Operator 16 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.185395
+operator_accuracy_drop,DHL-WH-IL02,2023-06-10,0.0,96.6667,96.6667,HIGH,Operator 16 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.185439
+operator_accuracy_drop,DHL-WH-NJ01,2023-08-14,0.0,100.0,100.0,HIGH,Operator 16 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.186358
+operator_accuracy_drop,DHL-WH-TX03,2022-10-21,0.0,100.0,100.0,HIGH,Operator 16 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.187257
+operator_accuracy_drop,DHL-WH-TX03,2022-11-22,0.0,96.6667,96.6667,HIGH,Operator 16 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.187300
+operator_accuracy_drop,DHL-WH-TX03,2023-06-15,0.0,100.0,100.0,HIGH,Operator 16 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.187339
+operator_accuracy_drop,DHL-WH-IL02,2022-03-28,50.0,100.0,50.0,HIGH,Operator 17 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.188263
+operator_accuracy_drop,DHL-WH-IL02,2023-03-12,50.0,100.0,50.0,HIGH,Operator 17 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.188307
+operator_accuracy_drop,DHL-WH-IL02,2023-05-24,0.0,100.0,100.0,HIGH,Operator 17 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.188348
+operator_accuracy_drop,DHL-WH-IL02,2023-09-19,50.0,100.0,50.0,HIGH,Operator 17 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.188387
+operator_accuracy_drop,DHL-WH-IL02,2023-11-14,0.0,100.0,100.0,HIGH,Operator 17 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.188425
+operator_accuracy_drop,DHL-WH-NJ01,2022-05-09,0.0,100.0,100.0,HIGH,Operator 17 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.189346
+operator_accuracy_drop,DHL-WH-NJ01,2022-06-01,0.0,96.6667,96.6667,HIGH,Operator 17 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.189391
+operator_accuracy_drop,DHL-WH-NJ01,2023-02-28,0.0,100.0,100.0,HIGH,Operator 17 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.189432
+operator_accuracy_drop,DHL-WH-NJ01,2023-07-11,0.0,100.0,100.0,HIGH,Operator 17 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.189472
+operator_accuracy_drop,DHL-WH-TX03,2022-01-13,0.0,100.0,100.0,HIGH,Operator 17 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.190389
+operator_accuracy_drop,DHL-WH-TX03,2022-10-22,50.0,100.0,50.0,HIGH,Operator 17 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.190431
+operator_accuracy_drop,DHL-WH-IL02,2022-06-10,50.0,100.0,50.0,HIGH,Operator 18 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.191339
+operator_accuracy_drop,DHL-WH-NJ01,2023-01-05,0.0,100.0,100.0,HIGH,Operator 18 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.192267
+operator_accuracy_drop,DHL-WH-TX03,2022-10-02,0.0,100.0,100.0,HIGH,Operator 18 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.193168
+operator_accuracy_drop,DHL-WH-TX03,2022-12-19,0.0,100.0,100.0,HIGH,Operator 18 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.193211
+operator_accuracy_drop,DHL-WH-TX03,2023-09-27,50.0,100.0,50.0,HIGH,Operator 18 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.193250
+operator_accuracy_drop,DHL-WH-IL02,2022-03-11,0.0,100.0,100.0,HIGH,Operator 19 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.194151
+operator_accuracy_drop,DHL-WH-IL02,2022-06-10,50.0,100.0,50.0,HIGH,Operator 19 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.194195
+operator_accuracy_drop,DHL-WH-IL02,2022-10-08,0.0,100.0,100.0,HIGH,Operator 19 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.194236
+operator_accuracy_drop,DHL-WH-IL02,2023-01-11,0.0,100.0,100.0,HIGH,Operator 19 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.194274
+operator_accuracy_drop,DHL-WH-IL02,2023-02-01,0.0,96.6667,96.6667,HIGH,Operator 19 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.194312
+operator_accuracy_drop,DHL-WH-NJ01,2022-04-23,0.0,100.0,100.0,HIGH,Operator 19 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.195215
+operator_accuracy_drop,DHL-WH-NJ01,2022-07-22,0.0,100.0,100.0,HIGH,Operator 19 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.195258
+operator_accuracy_drop,DHL-WH-NJ01,2022-08-31,0.0,96.6667,96.6667,HIGH,Operator 19 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.195298
+operator_accuracy_drop,DHL-WH-NJ01,2023-08-05,0.0,100.0,100.0,HIGH,Operator 19 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.195337
+operator_accuracy_drop,DHL-WH-TX03,2022-02-28,0.0,100.0,100.0,HIGH,Operator 19 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.196299
+operator_accuracy_drop,DHL-WH-TX03,2022-09-05,0.0,100.0,100.0,HIGH,Operator 19 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.196342
+operator_accuracy_drop,DHL-WH-TX03,2023-01-08,0.0,100.0,100.0,HIGH,Operator 19 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.196381
+operator_accuracy_drop,DHL-WH-TX03,2023-11-11,0.0,100.0,100.0,HIGH,Operator 19 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.196420
+operator_accuracy_drop,DHL-WH-TX03,2023-11-21,0.0,96.6667,96.6667,HIGH,Operator 19 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.196458
+operator_accuracy_drop,DHL-WH-IL02,2022-05-02,0.0,100.0,100.0,HIGH,Operator 20 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.197383
+operator_accuracy_drop,DHL-WH-IL02,2022-09-14,66.667,100.0,33.333,HIGH,Operator 20 accuracy 66.67% is 33.3pp below their 30-day average (100.00%),2026-06-13T20:22:22.197427
+operator_accuracy_drop,DHL-WH-IL02,2022-12-18,0.0,100.0,100.0,HIGH,Operator 20 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.197466
+operator_accuracy_drop,DHL-WH-IL02,2022-12-24,0.0,96.6667,96.6667,HIGH,Operator 20 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.197505
+operator_accuracy_drop,DHL-WH-IL02,2023-01-31,0.0,93.3333,93.3333,HIGH,Operator 20 accuracy 0.00% is 93.3pp below their 30-day average (93.33%),2026-06-13T20:22:22.197542
+operator_accuracy_drop,DHL-WH-IL02,2023-09-01,0.0,100.0,100.0,HIGH,Operator 20 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.197578
+operator_accuracy_drop,DHL-WH-NJ01,2022-12-10,50.0,100.0,50.0,HIGH,Operator 20 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.198490
+operator_accuracy_drop,DHL-WH-NJ01,2023-09-22,0.0,100.0,100.0,HIGH,Operator 20 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.198533
+operator_accuracy_drop,DHL-WH-TX03,2022-12-21,0.0,100.0,100.0,HIGH,Operator 20 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.199438
+operator_accuracy_drop,DHL-WH-TX03,2023-01-26,0.0,96.6667,96.6667,HIGH,Operator 20 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.199482
+operator_accuracy_drop,DHL-WH-TX03,2023-04-17,50.0,100.0,50.0,HIGH,Operator 20 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.199523
+operator_accuracy_drop,DHL-WH-TX03,2023-07-31,50.0,100.0,50.0,HIGH,Operator 20 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.199561
+operator_accuracy_drop,DHL-WH-TX03,2023-09-28,0.0,100.0,100.0,HIGH,Operator 20 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.199597
+operator_accuracy_drop,DHL-WH-IL02,2022-07-26,0.0,100.0,100.0,HIGH,Operator 21 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.200502
+operator_accuracy_drop,DHL-WH-IL02,2022-09-03,0.0,100.0,100.0,HIGH,Operator 21 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.200546
+operator_accuracy_drop,DHL-WH-NJ01,2022-05-06,0.0,100.0,100.0,HIGH,Operator 21 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.201444
+operator_accuracy_drop,DHL-WH-NJ01,2022-06-27,0.0,100.0,100.0,HIGH,Operator 21 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.201490
+operator_accuracy_drop,DHL-WH-NJ01,2022-11-05,0.0,100.0,100.0,HIGH,Operator 21 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.201531
+operator_accuracy_drop,DHL-WH-NJ01,2023-01-25,0.0,100.0,100.0,HIGH,Operator 21 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.201569
+operator_accuracy_drop,DHL-WH-NJ01,2023-06-04,0.0,100.0,100.0,HIGH,Operator 21 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.201605
+operator_accuracy_drop,DHL-WH-NJ01,2023-10-23,0.0,100.0,100.0,HIGH,Operator 21 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.201641
+operator_accuracy_drop,DHL-WH-TX03,2023-02-10,0.0,100.0,100.0,HIGH,Operator 21 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.202557
+operator_accuracy_drop,DHL-WH-TX03,2023-03-01,0.0,96.6667,96.6667,HIGH,Operator 21 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.202601
+operator_accuracy_drop,DHL-WH-TX03,2023-08-04,0.0,100.0,100.0,HIGH,Operator 21 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.202642
+operator_accuracy_drop,DHL-WH-IL02,2022-11-28,0.0,100.0,100.0,HIGH,Operator 22 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.203542
+operator_accuracy_drop,DHL-WH-IL02,2023-05-15,50.0,100.0,50.0,HIGH,Operator 22 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.203584
+operator_accuracy_drop,DHL-WH-IL02,2023-06-05,0.0,98.3333,98.3333,HIGH,Operator 22 accuracy 0.00% is 98.3pp below their 30-day average (98.33%),2026-06-13T20:22:22.203623
+operator_accuracy_drop,DHL-WH-NJ01,2022-03-03,0.0,100.0,100.0,HIGH,Operator 22 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.204523
+operator_accuracy_drop,DHL-WH-NJ01,2022-06-10,0.0,100.0,100.0,HIGH,Operator 22 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.204567
+operator_accuracy_drop,DHL-WH-NJ01,2022-07-06,0.0,96.6667,96.6667,HIGH,Operator 22 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.204606
+operator_accuracy_drop,DHL-WH-NJ01,2023-02-08,50.0,100.0,50.0,HIGH,Operator 22 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.204643
+operator_accuracy_drop,DHL-WH-TX03,2022-04-18,50.0,100.0,50.0,HIGH,Operator 22 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.205548
+operator_accuracy_drop,DHL-WH-TX03,2022-10-06,0.0,100.0,100.0,HIGH,Operator 22 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.205591
+operator_accuracy_drop,DHL-WH-TX03,2022-11-20,0.0,96.6667,96.6667,HIGH,Operator 22 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.205631
+operator_accuracy_drop,DHL-WH-IL02,2022-09-03,0.0,100.0,100.0,HIGH,Operator 23 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.206535
+operator_accuracy_drop,DHL-WH-NJ01,2023-08-27,50.0,100.0,50.0,HIGH,Operator 23 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.207446
+operator_accuracy_drop,DHL-WH-NJ01,2023-09-20,66.667,98.3333,31.6663,HIGH,Operator 23 accuracy 66.67% is 31.7pp below their 30-day average (98.33%),2026-06-13T20:22:22.207490
+operator_accuracy_drop,DHL-WH-TX03,2022-07-08,50.0,100.0,50.0,HIGH,Operator 23 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.208464
+operator_accuracy_drop,DHL-WH-TX03,2022-07-13,0.0,98.3333,98.3333,HIGH,Operator 23 accuracy 0.00% is 98.3pp below their 30-day average (98.33%),2026-06-13T20:22:22.208511
+operator_accuracy_drop,DHL-WH-TX03,2023-03-08,66.667,100.0,33.333,HIGH,Operator 23 accuracy 66.67% is 33.3pp below their 30-day average (100.00%),2026-06-13T20:22:22.208553
+operator_accuracy_drop,DHL-WH-IL02,2023-03-10,0.0,100.0,100.0,HIGH,Operator 24 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.209475
+operator_accuracy_drop,DHL-WH-NJ01,2022-09-15,0.0,100.0,100.0,HIGH,Operator 24 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.210384
+operator_accuracy_drop,DHL-WH-NJ01,2022-12-14,0.0,100.0,100.0,HIGH,Operator 24 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.210426
+operator_accuracy_drop,DHL-WH-NJ01,2022-12-20,0.0,96.6667,96.6667,HIGH,Operator 24 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.210465
+operator_accuracy_drop,DHL-WH-NJ01,2023-02-16,0.0,100.0,100.0,HIGH,Operator 24 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.210503
+operator_accuracy_drop,DHL-WH-NJ01,2023-06-13,0.0,100.0,100.0,HIGH,Operator 24 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.210540
+operator_accuracy_drop,DHL-WH-TX03,2023-01-02,0.0,100.0,100.0,HIGH,Operator 24 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.211445
+operator_accuracy_drop,DHL-WH-TX03,2023-06-09,0.0,100.0,100.0,HIGH,Operator 24 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.211489
+operator_accuracy_drop,DHL-WH-IL02,2022-02-27,0.0,100.0,100.0,HIGH,Operator 25 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.212401
+operator_accuracy_drop,DHL-WH-IL02,2022-05-15,0.0,100.0,100.0,HIGH,Operator 25 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.212445
+operator_accuracy_drop,DHL-WH-IL02,2022-07-16,50.0,100.0,50.0,HIGH,Operator 25 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.212486
+operator_accuracy_drop,DHL-WH-IL02,2022-09-29,0.0,100.0,100.0,HIGH,Operator 25 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.212525
+operator_accuracy_drop,DHL-WH-IL02,2022-11-09,0.0,96.6667,96.6667,HIGH,Operator 25 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.212562
+operator_accuracy_drop,DHL-WH-NJ01,2022-02-26,66.667,100.0,33.333,HIGH,Operator 25 accuracy 66.67% is 33.3pp below their 30-day average (100.00%),2026-06-13T20:22:22.213515
+operator_accuracy_drop,DHL-WH-NJ01,2022-06-29,0.0,100.0,100.0,HIGH,Operator 25 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.213560
+operator_accuracy_drop,DHL-WH-NJ01,2023-02-28,0.0,100.0,100.0,HIGH,Operator 25 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.213601
+operator_accuracy_drop,DHL-WH-TX03,2022-04-23,0.0,100.0,100.0,HIGH,Operator 25 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.214532
+operator_accuracy_drop,DHL-WH-TX03,2023-04-21,0.0,100.0,100.0,HIGH,Operator 25 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.214573
+operator_accuracy_drop,DHL-WH-IL02,2022-03-04,0.0,100.0,100.0,HIGH,Operator 26 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.215477
+operator_accuracy_drop,DHL-WH-IL02,2022-07-16,0.0,100.0,100.0,HIGH,Operator 26 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.215521
+operator_accuracy_drop,DHL-WH-IL02,2022-09-14,0.0,100.0,100.0,HIGH,Operator 26 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.215560
+operator_accuracy_drop,DHL-WH-IL02,2022-09-15,0.0,96.6667,96.6667,HIGH,Operator 26 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.215599
+operator_accuracy_drop,DHL-WH-IL02,2023-05-07,0.0,100.0,100.0,HIGH,Operator 26 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.215636
+operator_accuracy_drop,DHL-WH-IL02,2023-09-14,33.333,100.0,66.667,HIGH,Operator 26 accuracy 33.33% is 66.7pp below their 30-day average (100.00%),2026-06-13T20:22:22.215673
+operator_accuracy_drop,DHL-WH-NJ01,2022-05-08,0.0,100.0,100.0,HIGH,Operator 26 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.216584
+operator_accuracy_drop,DHL-WH-NJ01,2022-08-17,0.0,100.0,100.0,HIGH,Operator 26 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.216627
+operator_accuracy_drop,DHL-WH-NJ01,2023-03-31,0.0,100.0,100.0,HIGH,Operator 26 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.216668
+operator_accuracy_drop,DHL-WH-TX03,2022-06-23,0.0,100.0,100.0,HIGH,Operator 26 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.217570
+operator_accuracy_drop,DHL-WH-TX03,2023-09-21,0.0,100.0,100.0,HIGH,Operator 26 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.217613
+operator_accuracy_drop,DHL-WH-IL02,2022-05-21,0.0,100.0,100.0,HIGH,Operator 27 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.218525
+operator_accuracy_drop,DHL-WH-IL02,2022-06-17,50.0,96.6667,46.6667,HIGH,Operator 27 accuracy 50.00% is 46.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.218570
+operator_accuracy_drop,DHL-WH-IL02,2023-01-29,50.0,100.0,50.0,HIGH,Operator 27 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.218611
+operator_accuracy_drop,DHL-WH-NJ01,2022-06-02,50.0,100.0,50.0,HIGH,Operator 27 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.219546
+operator_accuracy_drop,DHL-WH-NJ01,2022-09-08,0.0,100.0,100.0,HIGH,Operator 27 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.219589
+operator_accuracy_drop,DHL-WH-NJ01,2022-11-03,50.0,100.0,50.0,HIGH,Operator 27 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.219629
+operator_accuracy_drop,DHL-WH-NJ01,2023-01-02,0.0,100.0,100.0,HIGH,Operator 27 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.219667
+operator_accuracy_drop,DHL-WH-NJ01,2023-02-22,0.0,100.0,100.0,HIGH,Operator 27 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.219715
+operator_accuracy_drop,DHL-WH-TX03,2022-01-29,50.0,100.0,50.0,HIGH,Operator 27 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.220613
+operator_accuracy_drop,DHL-WH-TX03,2023-03-02,50.0,100.0,50.0,HIGH,Operator 27 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.220656
+operator_accuracy_drop,DHL-WH-TX03,2023-03-21,0.0,98.3333,98.3333,HIGH,Operator 27 accuracy 0.00% is 98.3pp below their 30-day average (98.33%),2026-06-13T20:22:22.220713
+operator_accuracy_drop,DHL-WH-TX03,2023-07-04,50.0,100.0,50.0,HIGH,Operator 27 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.220755
+operator_accuracy_drop,DHL-WH-TX03,2023-09-13,0.0,100.0,100.0,HIGH,Operator 27 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.220792
+operator_accuracy_drop,DHL-WH-TX03,2023-09-20,0.0,96.6667,96.6667,HIGH,Operator 27 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.220828
+operator_accuracy_drop,DHL-WH-IL02,2022-04-02,0.0,100.0,100.0,HIGH,Operator 28 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.221730
+operator_accuracy_drop,DHL-WH-IL02,2023-01-16,50.0,100.0,50.0,HIGH,Operator 28 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.221774
+operator_accuracy_drop,DHL-WH-IL02,2023-02-15,50.0,98.3333,48.3333,HIGH,Operator 28 accuracy 50.00% is 48.3pp below their 30-day average (98.33%),2026-06-13T20:22:22.221814
+operator_accuracy_drop,DHL-WH-IL02,2023-05-22,0.0,100.0,100.0,HIGH,Operator 28 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.221853
+operator_accuracy_drop,DHL-WH-IL02,2023-11-30,0.0,100.0,100.0,HIGH,Operator 28 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.221889
+operator_accuracy_drop,DHL-WH-NJ01,2022-02-28,50.0,100.0,50.0,HIGH,Operator 28 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.222804
+operator_accuracy_drop,DHL-WH-NJ01,2022-07-04,0.0,100.0,100.0,HIGH,Operator 28 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.222847
+operator_accuracy_drop,DHL-WH-NJ01,2022-07-18,0.0,96.6667,96.6667,HIGH,Operator 28 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.222887
+operator_accuracy_drop,DHL-WH-NJ01,2023-06-25,0.0,100.0,100.0,HIGH,Operator 28 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.222925
+operator_accuracy_drop,DHL-WH-NJ01,2023-09-02,0.0,100.0,100.0,HIGH,Operator 28 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.222962
+operator_accuracy_drop,DHL-WH-NJ01,2023-12-24,0.0,100.0,100.0,HIGH,Operator 28 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.222997
+operator_accuracy_drop,DHL-WH-TX03,2022-03-27,0.0,100.0,100.0,HIGH,Operator 28 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.223896
+operator_accuracy_drop,DHL-WH-TX03,2022-04-07,0.0,96.6667,96.6667,HIGH,Operator 28 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.223939
+operator_accuracy_drop,DHL-WH-TX03,2022-07-09,50.0,100.0,50.0,HIGH,Operator 28 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.223978
+operator_accuracy_drop,DHL-WH-TX03,2022-10-21,0.0,100.0,100.0,HIGH,Operator 28 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.224017
+operator_accuracy_drop,DHL-WH-TX03,2023-07-16,0.0,100.0,100.0,HIGH,Operator 28 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.224053
+operator_accuracy_drop,DHL-WH-TX03,2023-10-26,0.0,100.0,100.0,HIGH,Operator 28 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.224102
+operator_accuracy_drop,DHL-WH-TX03,2023-11-18,0.0,96.6667,96.6667,HIGH,Operator 28 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.224146
+operator_accuracy_drop,DHL-WH-IL02,2022-08-21,0.0,100.0,100.0,HIGH,Operator 29 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.225073
+operator_accuracy_drop,DHL-WH-IL02,2022-09-19,0.0,96.6667,96.6667,HIGH,Operator 29 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.225116
+operator_accuracy_drop,DHL-WH-IL02,2022-10-07,0.0,96.6667,96.6667,HIGH,Operator 29 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.225156
+operator_accuracy_drop,DHL-WH-IL02,2022-12-09,0.0,100.0,100.0,HIGH,Operator 29 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.225194
+operator_accuracy_drop,DHL-WH-IL02,2022-12-19,0.0,96.6667,96.6667,HIGH,Operator 29 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.225230
+operator_accuracy_drop,DHL-WH-IL02,2023-01-08,66.667,93.3333,26.6663,HIGH,Operator 29 accuracy 66.67% is 26.7pp below their 30-day average (93.33%),2026-06-13T20:22:22.225267
+operator_accuracy_drop,DHL-WH-IL02,2023-07-09,0.0,100.0,100.0,HIGH,Operator 29 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.225303
+operator_accuracy_drop,DHL-WH-IL02,2023-07-30,50.0,96.6667,46.6667,HIGH,Operator 29 accuracy 50.00% is 46.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.225339
+operator_accuracy_drop,DHL-WH-NJ01,2022-05-28,0.0,100.0,100.0,HIGH,Operator 29 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.226252
+operator_accuracy_drop,DHL-WH-NJ01,2023-04-16,0.0,100.0,100.0,HIGH,Operator 29 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.226295
+operator_accuracy_drop,DHL-WH-NJ01,2023-06-10,0.0,100.0,100.0,HIGH,Operator 29 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.226334
+operator_accuracy_drop,DHL-WH-NJ01,2023-09-08,0.0,100.0,100.0,HIGH,Operator 29 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.226372
+operator_accuracy_drop,DHL-WH-NJ01,2023-10-05,50.0,96.6667,46.6667,HIGH,Operator 29 accuracy 50.00% is 46.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.226409
+operator_accuracy_drop,DHL-WH-TX03,2023-09-14,0.0,100.0,100.0,HIGH,Operator 29 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.227322
+operator_accuracy_drop,DHL-WH-IL02,2022-02-06,0.0,100.0,100.0,HIGH,Operator 30 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.228239
+operator_accuracy_drop,DHL-WH-IL02,2022-09-10,0.0,100.0,100.0,HIGH,Operator 30 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.228283
+operator_accuracy_drop,DHL-WH-IL02,2023-03-19,0.0,100.0,100.0,HIGH,Operator 30 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.228323
+operator_accuracy_drop,DHL-WH-NJ01,2022-05-08,0.0,100.0,100.0,HIGH,Operator 30 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.229265
+operator_accuracy_drop,DHL-WH-NJ01,2022-06-22,0.0,96.6667,96.6667,HIGH,Operator 30 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.229310
+operator_accuracy_drop,DHL-WH-NJ01,2022-09-02,0.0,100.0,100.0,HIGH,Operator 30 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.229349
+operator_accuracy_drop,DHL-WH-NJ01,2022-10-17,0.0,96.6667,96.6667,HIGH,Operator 30 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.229386
+operator_accuracy_drop,DHL-WH-NJ01,2023-02-08,0.0,100.0,100.0,HIGH,Operator 30 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.229422
+operator_accuracy_drop,DHL-WH-NJ01,2023-03-24,0.0,96.6667,96.6667,HIGH,Operator 30 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.229459
+operator_accuracy_drop,DHL-WH-NJ01,2023-06-08,0.0,100.0,100.0,HIGH,Operator 30 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.229496
+operator_accuracy_drop,DHL-WH-TX03,2022-03-22,0.0,100.0,100.0,HIGH,Operator 30 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.230461
+operator_accuracy_drop,DHL-WH-TX03,2023-01-04,0.0,100.0,100.0,HIGH,Operator 30 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.230505
+operator_accuracy_drop,DHL-WH-TX03,2023-01-13,0.0,96.6667,96.6667,HIGH,Operator 30 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.230547
+operator_accuracy_drop,DHL-WH-TX03,2023-11-23,0.0,100.0,100.0,HIGH,Operator 30 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.230596
+operator_accuracy_drop,DHL-WH-TX03,2023-12-22,0.0,96.6667,96.6667,HIGH,Operator 30 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.230633
+operator_accuracy_drop,DHL-WH-IL02,2023-10-10,50.0,100.0,50.0,HIGH,Operator 31 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.231546
+operator_accuracy_drop,DHL-WH-NJ01,2022-04-11,50.0,100.0,50.0,HIGH,Operator 31 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.232473
+operator_accuracy_drop,DHL-WH-NJ01,2022-08-30,0.0,100.0,100.0,HIGH,Operator 31 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.232517
+operator_accuracy_drop,DHL-WH-NJ01,2023-02-28,0.0,100.0,100.0,HIGH,Operator 31 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.232558
+operator_accuracy_drop,DHL-WH-NJ01,2023-04-20,0.0,100.0,100.0,HIGH,Operator 31 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.232597
+operator_accuracy_drop,DHL-WH-NJ01,2023-05-22,0.0,96.6667,96.6667,HIGH,Operator 31 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.232633
+operator_accuracy_drop,DHL-WH-NJ01,2023-07-18,0.0,100.0,100.0,HIGH,Operator 31 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.232670
+operator_accuracy_drop,DHL-WH-NJ01,2023-11-15,0.0,100.0,100.0,HIGH,Operator 31 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.232717
+operator_accuracy_drop,DHL-WH-TX03,2022-01-23,50.0,100.0,50.0,HIGH,Operator 31 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.233618
+operator_accuracy_drop,DHL-WH-TX03,2022-07-10,50.0,100.0,50.0,HIGH,Operator 31 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.233662
+operator_accuracy_drop,DHL-WH-TX03,2022-09-21,50.0,100.0,50.0,HIGH,Operator 31 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.233713
+operator_accuracy_drop,DHL-WH-TX03,2022-11-21,0.0,100.0,100.0,HIGH,Operator 31 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.233753
+operator_accuracy_drop,DHL-WH-TX03,2023-05-26,0.0,100.0,100.0,HIGH,Operator 31 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.233790
+operator_accuracy_drop,DHL-WH-TX03,2023-10-23,0.0,100.0,100.0,HIGH,Operator 31 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.233826
+operator_accuracy_drop,DHL-WH-IL02,2022-12-15,50.0,100.0,50.0,HIGH,Operator 32 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.234737
+operator_accuracy_drop,DHL-WH-IL02,2023-01-25,0.0,100.0,100.0,HIGH,Operator 32 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.234785
+operator_accuracy_drop,DHL-WH-IL02,2023-02-12,0.0,96.6667,96.6667,HIGH,Operator 32 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.234827
+operator_accuracy_drop,DHL-WH-IL02,2023-07-31,0.0,100.0,100.0,HIGH,Operator 32 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.234864
+operator_accuracy_drop,DHL-WH-NJ01,2022-07-08,0.0,100.0,100.0,HIGH,Operator 32 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.235780
+operator_accuracy_drop,DHL-WH-NJ01,2023-07-03,0.0,100.0,100.0,HIGH,Operator 32 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.235823
+operator_accuracy_drop,DHL-WH-NJ01,2023-12-06,0.0,100.0,100.0,HIGH,Operator 32 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.235864
+operator_accuracy_drop,DHL-WH-TX03,2022-05-22,0.0,100.0,100.0,HIGH,Operator 32 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.236777
+operator_accuracy_drop,DHL-WH-TX03,2022-07-22,0.0,96.6667,96.6667,HIGH,Operator 32 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.236819
+operator_accuracy_drop,DHL-WH-IL02,2022-12-22,50.0,100.0,50.0,HIGH,Operator 33 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.237716
+operator_accuracy_drop,DHL-WH-IL02,2023-08-24,0.0,100.0,100.0,HIGH,Operator 33 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.237761
+operator_accuracy_drop,DHL-WH-NJ01,2023-05-06,0.0,100.0,100.0,HIGH,Operator 33 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.238668
+operator_accuracy_drop,DHL-WH-TX03,2022-01-26,0.0,100.0,100.0,HIGH,Operator 33 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.239571
+operator_accuracy_drop,DHL-WH-IL02,2022-02-12,0.0,100.0,100.0,HIGH,Operator 34 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.240466
+operator_accuracy_drop,DHL-WH-IL02,2022-04-01,0.0,96.6667,96.6667,HIGH,Operator 34 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.240510
+operator_accuracy_drop,DHL-WH-IL02,2022-09-29,50.0,100.0,50.0,HIGH,Operator 34 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.240551
+operator_accuracy_drop,DHL-WH-IL02,2023-04-21,50.0,100.0,50.0,HIGH,Operator 34 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.240589
+operator_accuracy_drop,DHL-WH-IL02,2023-07-02,0.0,100.0,100.0,HIGH,Operator 34 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.240625
+operator_accuracy_drop,DHL-WH-IL02,2023-08-08,0.0,96.6667,96.6667,HIGH,Operator 34 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.240663
+operator_accuracy_drop,DHL-WH-NJ01,2022-04-26,0.0,100.0,100.0,HIGH,Operator 34 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.241594
+operator_accuracy_drop,DHL-WH-NJ01,2022-07-08,0.0,100.0,100.0,HIGH,Operator 34 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.241637
+operator_accuracy_drop,DHL-WH-NJ01,2023-04-29,0.0,100.0,100.0,HIGH,Operator 34 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.241677
+operator_accuracy_drop,DHL-WH-NJ01,2023-08-04,0.0,100.0,100.0,HIGH,Operator 34 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.241726
+operator_accuracy_drop,DHL-WH-TX03,2022-02-04,0.0,100.0,100.0,HIGH,Operator 34 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.242617
+operator_accuracy_drop,DHL-WH-TX03,2022-03-01,0.0,96.6667,96.6667,HIGH,Operator 34 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.242660
+operator_accuracy_drop,DHL-WH-TX03,2022-03-17,50.0,96.6667,46.6667,HIGH,Operator 34 accuracy 50.00% is 46.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.242710
+operator_accuracy_drop,DHL-WH-TX03,2022-12-14,0.0,100.0,100.0,HIGH,Operator 34 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.242748
+operator_accuracy_drop,DHL-WH-TX03,2023-08-09,0.0,100.0,100.0,HIGH,Operator 34 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.242784
+operator_accuracy_drop,DHL-WH-TX03,2023-10-27,50.0,100.0,50.0,HIGH,Operator 34 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.242818
+operator_accuracy_drop,DHL-WH-IL02,2022-11-11,0.0,100.0,100.0,HIGH,Operator 35 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.243717
+operator_accuracy_drop,DHL-WH-IL02,2023-05-17,50.0,100.0,50.0,HIGH,Operator 35 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.243764
+operator_accuracy_drop,DHL-WH-IL02,2023-06-03,0.0,98.3333,98.3333,HIGH,Operator 35 accuracy 0.00% is 98.3pp below their 30-day average (98.33%),2026-06-13T20:22:22.243807
+operator_accuracy_drop,DHL-WH-IL02,2023-12-10,0.0,100.0,100.0,HIGH,Operator 35 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.243844
+operator_accuracy_drop,DHL-WH-IL02,2023-12-17,0.0,96.6667,96.6667,HIGH,Operator 35 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.243879
+operator_accuracy_drop,DHL-WH-NJ01,2022-04-11,0.0,100.0,100.0,HIGH,Operator 35 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.244786
+operator_accuracy_drop,DHL-WH-NJ01,2022-08-14,0.0,100.0,100.0,HIGH,Operator 35 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.244830
+operator_accuracy_drop,DHL-WH-NJ01,2022-09-17,66.667,96.6667,29.9997,HIGH,Operator 35 accuracy 66.67% is 30.0pp below their 30-day average (96.67%),2026-06-13T20:22:22.244872
+operator_accuracy_drop,DHL-WH-NJ01,2023-05-04,0.0,100.0,100.0,HIGH,Operator 35 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.244909
+operator_accuracy_drop,DHL-WH-TX03,2022-08-19,0.0,100.0,100.0,HIGH,Operator 35 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.245848
+operator_accuracy_drop,DHL-WH-TX03,2022-09-20,0.0,96.6667,96.6667,HIGH,Operator 35 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.245892
+operator_accuracy_drop,DHL-WH-TX03,2023-02-24,0.0,100.0,100.0,HIGH,Operator 35 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.245931
+operator_accuracy_drop,DHL-WH-TX03,2023-05-17,0.0,100.0,100.0,HIGH,Operator 35 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.245969
+operator_accuracy_drop,DHL-WH-TX03,2023-07-22,0.0,100.0,100.0,HIGH,Operator 35 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.246005
+operator_accuracy_drop,DHL-WH-IL02,2022-10-07,0.0,100.0,100.0,HIGH,Operator 36 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.246964
+operator_accuracy_drop,DHL-WH-IL02,2022-11-04,0.0,96.6667,96.6667,HIGH,Operator 36 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.247007
+operator_accuracy_drop,DHL-WH-IL02,2023-07-12,0.0,100.0,100.0,HIGH,Operator 36 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.247045
+operator_accuracy_drop,DHL-WH-NJ01,2022-02-16,0.0,100.0,100.0,HIGH,Operator 36 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.247947
+operator_accuracy_drop,DHL-WH-NJ01,2022-04-22,0.0,100.0,100.0,HIGH,Operator 36 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.247989
+operator_accuracy_drop,DHL-WH-NJ01,2022-05-10,50.0,96.6667,46.6667,HIGH,Operator 36 accuracy 50.00% is 46.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.248026
+operator_accuracy_drop,DHL-WH-NJ01,2023-12-09,0.0,100.0,100.0,HIGH,Operator 36 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.248064
+operator_accuracy_drop,DHL-WH-TX03,2022-03-30,0.0,100.0,100.0,HIGH,Operator 36 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.248978
+operator_accuracy_drop,DHL-WH-TX03,2022-09-13,50.0,100.0,50.0,HIGH,Operator 36 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.249021
+operator_accuracy_drop,DHL-WH-IL02,2023-02-18,0.0,100.0,100.0,HIGH,Operator 37 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.249921
+operator_accuracy_drop,DHL-WH-IL02,2023-03-07,0.0,96.6667,96.6667,HIGH,Operator 37 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.249964
+operator_accuracy_drop,DHL-WH-NJ01,2022-12-08,0.0,100.0,100.0,HIGH,Operator 37 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.250858
+operator_accuracy_drop,DHL-WH-NJ01,2022-12-10,50.0,96.6667,46.6667,HIGH,Operator 37 accuracy 50.00% is 46.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.250902
+operator_accuracy_drop,DHL-WH-TX03,2022-01-29,0.0,100.0,100.0,HIGH,Operator 37 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.251805
+operator_accuracy_drop,DHL-WH-TX03,2022-06-20,0.0,100.0,100.0,HIGH,Operator 37 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.251850
+operator_accuracy_drop,DHL-WH-TX03,2022-11-13,0.0,100.0,100.0,HIGH,Operator 37 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.251889
+operator_accuracy_drop,DHL-WH-TX03,2022-12-28,50.0,100.0,50.0,HIGH,Operator 37 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.251925
+operator_accuracy_drop,DHL-WH-TX03,2023-04-14,0.0,100.0,100.0,HIGH,Operator 37 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.251960
+operator_accuracy_drop,DHL-WH-IL02,2022-03-17,0.0,100.0,100.0,HIGH,Operator 38 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.252873
+operator_accuracy_drop,DHL-WH-IL02,2023-06-15,0.0,100.0,100.0,HIGH,Operator 38 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.252916
+operator_accuracy_drop,DHL-WH-IL02,2023-10-07,0.0,100.0,100.0,HIGH,Operator 38 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.252954
+operator_accuracy_drop,DHL-WH-NJ01,2022-03-26,0.0,100.0,100.0,HIGH,Operator 38 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.253851
+operator_accuracy_drop,DHL-WH-TX03,2022-05-15,0.0,100.0,100.0,HIGH,Operator 38 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.254735
+operator_accuracy_drop,DHL-WH-TX03,2022-07-31,0.0,100.0,100.0,HIGH,Operator 38 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.254778
+operator_accuracy_drop,DHL-WH-TX03,2023-09-10,0.0,100.0,100.0,HIGH,Operator 38 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.254819
+operator_accuracy_drop,DHL-WH-IL02,2022-03-24,0.0,100.0,100.0,HIGH,Operator 39 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.255712
+operator_accuracy_drop,DHL-WH-IL02,2022-07-24,0.0,100.0,100.0,HIGH,Operator 39 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.255754
+operator_accuracy_drop,DHL-WH-IL02,2022-09-30,50.0,100.0,50.0,HIGH,Operator 39 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.255790
+operator_accuracy_drop,DHL-WH-IL02,2022-11-01,0.0,98.3333,98.3333,HIGH,Operator 39 accuracy 0.00% is 98.3pp below their 30-day average (98.33%),2026-06-13T20:22:22.255827
+operator_accuracy_drop,DHL-WH-IL02,2023-01-20,0.0,100.0,100.0,HIGH,Operator 39 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.255862
+operator_accuracy_drop,DHL-WH-IL02,2023-01-27,0.0,96.6667,96.6667,HIGH,Operator 39 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.255897
+operator_accuracy_drop,DHL-WH-IL02,2023-04-30,0.0,100.0,100.0,HIGH,Operator 39 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.255931
+operator_accuracy_drop,DHL-WH-NJ01,2022-03-02,0.0,100.0,100.0,HIGH,Operator 39 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.256828
+operator_accuracy_drop,DHL-WH-TX03,2022-01-21,50.0,100.0,50.0,HIGH,Operator 39 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.257716
+operator_accuracy_drop,DHL-WH-TX03,2023-05-02,50.0,100.0,50.0,HIGH,Operator 39 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.257758
+operator_accuracy_drop,DHL-WH-TX03,2023-05-28,0.0,98.3333,98.3333,HIGH,Operator 39 accuracy 0.00% is 98.3pp below their 30-day average (98.33%),2026-06-13T20:22:22.257797
+operator_accuracy_drop,DHL-WH-TX03,2023-09-26,0.0,100.0,100.0,HIGH,Operator 39 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.257834
+operator_accuracy_drop,DHL-WH-IL02,2022-01-26,0.0,100.0,100.0,HIGH,Operator 40 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.258727
+operator_accuracy_drop,DHL-WH-IL02,2022-05-22,0.0,100.0,100.0,HIGH,Operator 40 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.258769
+operator_accuracy_drop,DHL-WH-IL02,2022-09-15,0.0,100.0,100.0,HIGH,Operator 40 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.258806
+operator_accuracy_drop,DHL-WH-IL02,2023-03-08,0.0,100.0,100.0,HIGH,Operator 40 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.258843
+operator_accuracy_drop,DHL-WH-NJ01,2022-01-20,0.0,100.0,100.0,HIGH,Operator 40 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.259726
+operator_accuracy_drop,DHL-WH-NJ01,2022-01-26,0.0,90.0,90.0,HIGH,Operator 40 accuracy 0.00% is 90.0pp below their 30-day average (90.00%),2026-06-13T20:22:22.259768
+operator_accuracy_drop,DHL-WH-TX03,2022-04-29,0.0,100.0,100.0,HIGH,Operator 40 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.260639
+operator_accuracy_drop,DHL-WH-TX03,2022-06-30,0.0,100.0,100.0,HIGH,Operator 40 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.260682
+operator_accuracy_drop,DHL-WH-TX03,2023-04-30,0.0,100.0,100.0,HIGH,Operator 40 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.260735
+operator_accuracy_drop,DHL-WH-TX03,2023-10-20,0.0,100.0,100.0,HIGH,Operator 40 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.260773
+operator_accuracy_drop,DHL-WH-IL02,2023-02-19,0.0,100.0,100.0,HIGH,Operator 41 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.261655
+operator_accuracy_drop,DHL-WH-IL02,2023-07-25,0.0,100.0,100.0,HIGH,Operator 41 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.261709
+operator_accuracy_drop,DHL-WH-NJ01,2022-06-21,0.0,100.0,100.0,HIGH,Operator 41 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.262631
+operator_accuracy_drop,DHL-WH-NJ01,2022-07-07,0.0,96.6667,96.6667,HIGH,Operator 41 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.262674
+operator_accuracy_drop,DHL-WH-NJ01,2022-09-21,0.0,100.0,100.0,HIGH,Operator 41 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.262727
+operator_accuracy_drop,DHL-WH-NJ01,2023-01-03,0.0,100.0,100.0,HIGH,Operator 41 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.262765
+operator_accuracy_drop,DHL-WH-NJ01,2023-08-19,0.0,100.0,100.0,HIGH,Operator 41 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.262801
+operator_accuracy_drop,DHL-WH-TX03,2022-07-27,0.0,100.0,100.0,HIGH,Operator 41 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.263842
+operator_accuracy_drop,DHL-WH-TX03,2022-08-06,50.0,96.6667,46.6667,HIGH,Operator 41 accuracy 50.00% is 46.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.263886
+operator_accuracy_drop,DHL-WH-TX03,2022-10-09,0.0,100.0,100.0,HIGH,Operator 41 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.263927
+operator_accuracy_drop,DHL-WH-TX03,2022-11-01,50.0,96.6667,46.6667,HIGH,Operator 41 accuracy 50.00% is 46.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.263966
+operator_accuracy_drop,DHL-WH-TX03,2023-05-20,0.0,100.0,100.0,HIGH,Operator 41 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.264002
+operator_accuracy_drop,DHL-WH-TX03,2023-10-01,0.0,100.0,100.0,HIGH,Operator 41 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.264038
+operator_accuracy_drop,DHL-WH-IL02,2022-06-04,0.0,100.0,100.0,HIGH,Operator 42 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.264945
+operator_accuracy_drop,DHL-WH-IL02,2022-09-01,0.0,100.0,100.0,HIGH,Operator 42 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.264987
+operator_accuracy_drop,DHL-WH-IL02,2022-09-07,0.0,96.6667,96.6667,HIGH,Operator 42 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.265028
+operator_accuracy_drop,DHL-WH-IL02,2022-10-26,0.0,100.0,100.0,HIGH,Operator 42 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.265065
+operator_accuracy_drop,DHL-WH-IL02,2023-01-27,0.0,100.0,100.0,HIGH,Operator 42 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.265100
+operator_accuracy_drop,DHL-WH-IL02,2023-05-05,0.0,100.0,100.0,HIGH,Operator 42 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.265135
+operator_accuracy_drop,DHL-WH-IL02,2023-05-31,0.0,96.6667,96.6667,HIGH,Operator 42 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.265169
+operator_accuracy_drop,DHL-WH-IL02,2023-09-15,0.0,100.0,100.0,HIGH,Operator 42 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.265204
+operator_accuracy_drop,DHL-WH-NJ01,2022-05-28,0.0,100.0,100.0,HIGH,Operator 42 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.266109
+operator_accuracy_drop,DHL-WH-NJ01,2022-11-22,0.0,100.0,100.0,HIGH,Operator 42 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.266151
+operator_accuracy_drop,DHL-WH-NJ01,2023-12-21,0.0,100.0,100.0,HIGH,Operator 42 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.266191
+operator_accuracy_drop,DHL-WH-TX03,2022-03-29,0.0,100.0,100.0,HIGH,Operator 42 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.267105
+operator_accuracy_drop,DHL-WH-TX03,2022-04-07,0.0,96.6667,96.6667,HIGH,Operator 42 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.267147
+operator_accuracy_drop,DHL-WH-TX03,2022-04-15,0.0,93.3333,93.3333,HIGH,Operator 42 accuracy 0.00% is 93.3pp below their 30-day average (93.33%),2026-06-13T20:22:22.267185
+operator_accuracy_drop,DHL-WH-TX03,2022-11-12,0.0,100.0,100.0,HIGH,Operator 42 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.267222
+operator_accuracy_drop,DHL-WH-TX03,2023-02-01,50.0,100.0,50.0,HIGH,Operator 42 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.267267
+operator_accuracy_drop,DHL-WH-TX03,2023-04-27,0.0,100.0,100.0,HIGH,Operator 42 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.267306
+operator_accuracy_drop,DHL-WH-IL02,2023-03-17,0.0,100.0,100.0,HIGH,Operator 43 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.268219
+operator_accuracy_drop,DHL-WH-IL02,2023-07-30,0.0,100.0,100.0,HIGH,Operator 43 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.268262
+operator_accuracy_drop,DHL-WH-NJ01,2023-11-06,0.0,100.0,100.0,HIGH,Operator 43 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.269185
+operator_accuracy_drop,DHL-WH-TX03,2023-05-08,50.0,100.0,50.0,HIGH,Operator 43 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.270086
+operator_accuracy_drop,DHL-WH-TX03,2023-06-18,0.0,98.3333,98.3333,HIGH,Operator 43 accuracy 0.00% is 98.3pp below their 30-day average (98.33%),2026-06-13T20:22:22.270130
+operator_accuracy_drop,DHL-WH-IL02,2022-03-05,0.0,100.0,100.0,HIGH,Operator 44 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.271027
+operator_accuracy_drop,DHL-WH-IL02,2023-02-23,0.0,100.0,100.0,HIGH,Operator 44 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.271071
+operator_accuracy_drop,DHL-WH-IL02,2023-04-02,0.0,96.6667,96.6667,HIGH,Operator 44 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.271111
+operator_accuracy_drop,DHL-WH-IL02,2023-11-16,0.0,100.0,100.0,HIGH,Operator 44 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.271150
+operator_accuracy_drop,DHL-WH-IL02,2023-12-28,50.0,100.0,50.0,HIGH,Operator 44 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.271186
+operator_accuracy_drop,DHL-WH-NJ01,2022-07-05,0.0,100.0,100.0,HIGH,Operator 44 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.272091
+operator_accuracy_drop,DHL-WH-NJ01,2022-10-09,0.0,100.0,100.0,HIGH,Operator 44 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.272134
+operator_accuracy_drop,DHL-WH-NJ01,2022-12-25,50.0,100.0,50.0,HIGH,Operator 44 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.272173
+operator_accuracy_drop,DHL-WH-TX03,2022-04-05,0.0,100.0,100.0,HIGH,Operator 44 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.273070
+operator_accuracy_drop,DHL-WH-TX03,2022-07-15,50.0,100.0,50.0,HIGH,Operator 44 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.273111
+operator_accuracy_drop,DHL-WH-TX03,2022-08-18,0.0,98.3333,98.3333,HIGH,Operator 44 accuracy 0.00% is 98.3pp below their 30-day average (98.33%),2026-06-13T20:22:22.273149
+operator_accuracy_drop,DHL-WH-TX03,2022-09-07,50.0,96.6667,46.6667,HIGH,Operator 44 accuracy 50.00% is 46.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.273186
+operator_accuracy_drop,DHL-WH-TX03,2023-01-26,0.0,100.0,100.0,HIGH,Operator 44 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.273221
+operator_accuracy_drop,DHL-WH-IL02,2022-07-28,0.0,100.0,100.0,HIGH,Operator 45 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.274115
+operator_accuracy_drop,DHL-WH-IL02,2023-10-03,0.0,100.0,100.0,HIGH,Operator 45 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.274157
+operator_accuracy_drop,DHL-WH-NJ01,2022-02-19,66.667,100.0,33.333,HIGH,Operator 45 accuracy 66.67% is 33.3pp below their 30-day average (100.00%),2026-06-13T20:22:22.275076
+operator_accuracy_drop,DHL-WH-NJ01,2022-04-18,0.0,100.0,100.0,HIGH,Operator 45 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.275118
+operator_accuracy_drop,DHL-WH-NJ01,2022-07-30,0.0,100.0,100.0,HIGH,Operator 45 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.275158
+operator_accuracy_drop,DHL-WH-NJ01,2023-06-01,0.0,100.0,100.0,HIGH,Operator 45 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.275195
+operator_accuracy_drop,DHL-WH-NJ01,2023-12-22,50.0,100.0,50.0,HIGH,Operator 45 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.275230
+operator_accuracy_drop,DHL-WH-TX03,2022-03-27,66.667,100.0,33.333,HIGH,Operator 45 accuracy 66.67% is 33.3pp below their 30-day average (100.00%),2026-06-13T20:22:22.276129
+operator_accuracy_drop,DHL-WH-TX03,2022-05-18,0.0,100.0,100.0,HIGH,Operator 45 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.276171
+operator_accuracy_drop,DHL-WH-TX03,2022-05-27,0.0,96.6667,96.6667,HIGH,Operator 45 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.276209
+operator_accuracy_drop,DHL-WH-TX03,2022-06-25,50.0,93.3333,43.3333,HIGH,Operator 45 accuracy 50.00% is 43.3pp below their 30-day average (93.33%),2026-06-13T20:22:22.276248
+operator_accuracy_drop,DHL-WH-TX03,2022-08-01,0.0,98.3333,98.3333,HIGH,Operator 45 accuracy 0.00% is 98.3pp below their 30-day average (98.33%),2026-06-13T20:22:22.276284
+operator_accuracy_drop,DHL-WH-TX03,2023-01-06,0.0,100.0,100.0,HIGH,Operator 45 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.276318
+operator_accuracy_drop,DHL-WH-TX03,2023-05-24,0.0,100.0,100.0,HIGH,Operator 45 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.276353
+operator_accuracy_drop,DHL-WH-IL02,2022-04-23,0.0,100.0,100.0,HIGH,Operator 46 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.277247
+operator_accuracy_drop,DHL-WH-IL02,2022-10-11,0.0,100.0,100.0,HIGH,Operator 46 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.277289
+operator_accuracy_drop,DHL-WH-IL02,2022-11-28,0.0,100.0,100.0,HIGH,Operator 46 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.277328
+operator_accuracy_drop,DHL-WH-IL02,2023-04-18,0.0,100.0,100.0,HIGH,Operator 46 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.277366
+operator_accuracy_drop,DHL-WH-IL02,2023-05-30,0.0,96.6667,96.6667,HIGH,Operator 46 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.277402
+operator_accuracy_drop,DHL-WH-IL02,2023-08-07,50.0,100.0,50.0,HIGH,Operator 46 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.277437
+operator_accuracy_drop,DHL-WH-NJ01,2022-04-13,0.0,100.0,100.0,HIGH,Operator 46 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.278333
+operator_accuracy_drop,DHL-WH-NJ01,2023-08-01,0.0,100.0,100.0,HIGH,Operator 46 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.278375
+operator_accuracy_drop,DHL-WH-TX03,2022-08-11,0.0,100.0,100.0,HIGH,Operator 46 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.279308
+operator_accuracy_drop,DHL-WH-TX03,2023-08-27,0.0,100.0,100.0,HIGH,Operator 46 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.279351
+operator_accuracy_drop,DHL-WH-TX03,2023-12-14,0.0,100.0,100.0,HIGH,Operator 46 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.279389
+operator_accuracy_drop,DHL-WH-IL02,2022-06-19,50.0,100.0,50.0,HIGH,Operator 47 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.280315
+operator_accuracy_drop,DHL-WH-IL02,2022-09-15,0.0,100.0,100.0,HIGH,Operator 47 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.280357
+operator_accuracy_drop,DHL-WH-IL02,2022-11-23,0.0,100.0,100.0,HIGH,Operator 47 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.280413
+operator_accuracy_drop,DHL-WH-NJ01,2022-07-30,0.0,100.0,100.0,HIGH,Operator 47 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.281322
+operator_accuracy_drop,DHL-WH-NJ01,2022-10-18,50.0,100.0,50.0,HIGH,Operator 47 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.281363
+operator_accuracy_drop,DHL-WH-NJ01,2022-12-01,50.0,100.0,50.0,HIGH,Operator 47 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.281400
+operator_accuracy_drop,DHL-WH-NJ01,2023-01-19,0.0,100.0,100.0,HIGH,Operator 47 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.281435
+operator_accuracy_drop,DHL-WH-NJ01,2023-05-25,0.0,100.0,100.0,HIGH,Operator 47 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.281470
+operator_accuracy_drop,DHL-WH-TX03,2022-04-30,0.0,100.0,100.0,HIGH,Operator 47 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.282370
+operator_accuracy_drop,DHL-WH-TX03,2022-05-08,0.0,96.6667,96.6667,HIGH,Operator 47 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.282412
+operator_accuracy_drop,DHL-WH-TX03,2022-11-18,0.0,100.0,100.0,HIGH,Operator 47 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.282448
+operator_accuracy_drop,DHL-WH-TX03,2023-12-24,0.0,100.0,100.0,HIGH,Operator 47 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.282483
+operator_accuracy_drop,DHL-WH-IL02,2023-01-17,0.0,100.0,100.0,HIGH,Operator 48 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.283380
+operator_accuracy_drop,DHL-WH-IL02,2023-09-23,0.0,100.0,100.0,HIGH,Operator 48 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.283423
+operator_accuracy_drop,DHL-WH-NJ01,2022-04-20,0.0,100.0,100.0,HIGH,Operator 48 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.284312
+operator_accuracy_drop,DHL-WH-NJ01,2022-05-24,0.0,96.6667,96.6667,HIGH,Operator 48 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.284355
+operator_accuracy_drop,DHL-WH-NJ01,2023-01-10,0.0,100.0,100.0,HIGH,Operator 48 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.284395
+operator_accuracy_drop,DHL-WH-TX03,2022-07-03,0.0,100.0,100.0,HIGH,Operator 48 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.285292
+operator_accuracy_drop,DHL-WH-TX03,2023-01-20,50.0,100.0,50.0,HIGH,Operator 48 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.285333
+operator_accuracy_drop,DHL-WH-IL02,2022-02-16,50.0,100.0,50.0,HIGH,Operator 49 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.286238
+operator_accuracy_drop,DHL-WH-IL02,2022-07-05,0.0,100.0,100.0,HIGH,Operator 49 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.286280
+operator_accuracy_drop,DHL-WH-IL02,2023-01-18,0.0,100.0,100.0,HIGH,Operator 49 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.286341
+operator_accuracy_drop,DHL-WH-IL02,2023-03-09,0.0,96.6667,96.6667,HIGH,Operator 49 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.286381
+operator_accuracy_drop,DHL-WH-IL02,2023-06-27,0.0,100.0,100.0,HIGH,Operator 49 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.286416
+operator_accuracy_drop,DHL-WH-NJ01,2022-03-31,0.0,100.0,100.0,HIGH,Operator 49 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.287327
+operator_accuracy_drop,DHL-WH-NJ01,2022-09-30,50.0,100.0,50.0,HIGH,Operator 49 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.287369
+operator_accuracy_drop,DHL-WH-NJ01,2023-08-22,0.0,100.0,100.0,HIGH,Operator 49 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.287409
+operator_accuracy_drop,DHL-WH-TX03,2022-03-21,0.0,100.0,100.0,HIGH,Operator 49 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.288315
+operator_accuracy_drop,DHL-WH-TX03,2022-09-07,0.0,100.0,100.0,HIGH,Operator 49 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.288356
+operator_accuracy_drop,DHL-WH-TX03,2023-02-02,50.0,100.0,50.0,HIGH,Operator 49 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.288393
+operator_accuracy_drop,DHL-WH-TX03,2023-09-10,0.0,100.0,100.0,HIGH,Operator 49 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.288429
+operator_accuracy_drop,DHL-WH-TX03,2023-09-14,0.0,96.6667,96.6667,HIGH,Operator 49 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.288465
+operator_accuracy_drop,DHL-WH-TX03,2023-10-21,0.0,93.3333,93.3333,HIGH,Operator 49 accuracy 0.00% is 93.3pp below their 30-day average (93.33%),2026-06-13T20:22:22.288501
+operator_accuracy_drop,DHL-WH-IL02,2022-01-21,0.0,100.0,100.0,HIGH,Operator 50 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.289395
+operator_accuracy_drop,DHL-WH-IL02,2022-04-07,0.0,100.0,100.0,HIGH,Operator 50 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.289437
+operator_accuracy_drop,DHL-WH-IL02,2022-05-23,0.0,100.0,100.0,HIGH,Operator 50 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.289476
+operator_accuracy_drop,DHL-WH-IL02,2023-01-15,0.0,100.0,100.0,HIGH,Operator 50 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.289516
+operator_accuracy_drop,DHL-WH-IL02,2023-07-19,0.0,100.0,100.0,HIGH,Operator 50 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.289553
+operator_accuracy_drop,DHL-WH-IL02,2023-09-18,0.0,100.0,100.0,HIGH,Operator 50 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.289588
+operator_accuracy_drop,DHL-WH-IL02,2023-10-10,50.0,96.6667,46.6667,HIGH,Operator 50 accuracy 50.00% is 46.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.289625
+operator_accuracy_drop,DHL-WH-NJ01,2022-06-19,0.0,100.0,100.0,HIGH,Operator 50 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.290526
+operator_accuracy_drop,DHL-WH-NJ01,2023-05-28,50.0,100.0,50.0,HIGH,Operator 50 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.290569
+operator_accuracy_drop,DHL-WH-NJ01,2023-09-10,0.0,100.0,100.0,HIGH,Operator 50 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.290609
+operator_accuracy_drop,DHL-WH-NJ01,2023-10-19,0.0,96.6667,96.6667,HIGH,Operator 50 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.290648
+operator_accuracy_drop,DHL-WH-NJ01,2023-11-21,0.0,96.6667,96.6667,HIGH,Operator 50 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.290684
+operator_accuracy_drop,DHL-WH-NJ01,2023-12-11,50.0,96.6667,46.6667,HIGH,Operator 50 accuracy 50.00% is 46.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.290731
+operator_accuracy_drop,DHL-WH-TX03,2022-01-24,0.0,100.0,100.0,HIGH,Operator 50 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.291643
+operator_accuracy_drop,DHL-WH-TX03,2022-06-20,0.0,100.0,100.0,HIGH,Operator 50 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.291686
+operator_accuracy_drop,DHL-WH-TX03,2022-09-21,0.0,100.0,100.0,HIGH,Operator 50 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.291738
+operator_accuracy_drop,DHL-WH-TX03,2022-10-03,0.0,96.6667,96.6667,HIGH,Operator 50 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.291777
+operator_accuracy_drop,DHL-WH-TX03,2022-11-18,0.0,96.6667,96.6667,HIGH,Operator 50 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.291814
+operator_accuracy_drop,DHL-WH-TX03,2022-11-21,0.0,93.3333,93.3333,HIGH,Operator 50 accuracy 0.00% is 93.3pp below their 30-day average (93.33%),2026-06-13T20:22:22.291849
+operator_accuracy_drop,DHL-WH-TX03,2023-01-10,50.0,100.0,50.0,HIGH,Operator 50 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.291884
+operator_accuracy_drop,DHL-WH-IL02,2022-02-03,0.0,100.0,100.0,HIGH,Operator 51 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.292785
+operator_accuracy_drop,DHL-WH-IL02,2022-12-05,0.0,100.0,100.0,HIGH,Operator 51 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.292828
+operator_accuracy_drop,DHL-WH-IL02,2023-01-08,0.0,96.6667,96.6667,HIGH,Operator 51 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.292867
+operator_accuracy_drop,DHL-WH-NJ01,2022-06-17,50.0,100.0,50.0,HIGH,Operator 51 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.293763
+operator_accuracy_drop,DHL-WH-NJ01,2023-06-14,50.0,100.0,50.0,HIGH,Operator 51 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.293803
+operator_accuracy_drop,DHL-WH-NJ01,2023-11-16,0.0,100.0,100.0,HIGH,Operator 51 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.293840
+operator_accuracy_drop,DHL-WH-TX03,2022-08-27,0.0,100.0,100.0,HIGH,Operator 51 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.294736
+operator_accuracy_drop,DHL-WH-TX03,2022-09-10,0.0,96.6667,96.6667,HIGH,Operator 51 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.294779
+operator_accuracy_drop,DHL-WH-TX03,2023-06-24,0.0,100.0,100.0,HIGH,Operator 51 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.294817
+operator_accuracy_drop,DHL-WH-TX03,2023-10-15,0.0,100.0,100.0,HIGH,Operator 51 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.294855
+operator_accuracy_drop,DHL-WH-IL02,2022-11-10,0.0,100.0,100.0,HIGH,Operator 52 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.295789
+operator_accuracy_drop,DHL-WH-IL02,2023-05-02,0.0,100.0,100.0,HIGH,Operator 52 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.295831
+operator_accuracy_drop,DHL-WH-NJ01,2022-03-06,0.0,100.0,100.0,HIGH,Operator 52 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.296755
+operator_accuracy_drop,DHL-WH-NJ01,2022-04-22,0.0,100.0,100.0,HIGH,Operator 52 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.296798
+operator_accuracy_drop,DHL-WH-NJ01,2022-05-29,0.0,96.6667,96.6667,HIGH,Operator 52 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.296858
+operator_accuracy_drop,DHL-WH-NJ01,2022-09-16,50.0,100.0,50.0,HIGH,Operator 52 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.296898
+operator_accuracy_drop,DHL-WH-NJ01,2022-12-25,0.0,100.0,100.0,HIGH,Operator 52 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.296934
+operator_accuracy_drop,DHL-WH-NJ01,2023-02-21,0.0,100.0,100.0,HIGH,Operator 52 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.296969
+operator_accuracy_drop,DHL-WH-NJ01,2023-06-09,0.0,100.0,100.0,HIGH,Operator 52 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.297004
+operator_accuracy_drop,DHL-WH-TX03,2023-03-04,0.0,100.0,100.0,HIGH,Operator 52 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.297905
+operator_accuracy_drop,DHL-WH-TX03,2023-09-06,0.0,100.0,100.0,HIGH,Operator 52 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.297948
+operator_accuracy_drop,DHL-WH-TX03,2023-12-10,0.0,100.0,100.0,HIGH,Operator 52 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.297987
+operator_accuracy_drop,DHL-WH-TX03,2023-12-17,50.0,96.6667,46.6667,HIGH,Operator 52 accuracy 50.00% is 46.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.298025
+operator_accuracy_drop,DHL-WH-IL02,2022-01-11,0.0,100.0,100.0,HIGH,Operator 53 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.298935
+operator_accuracy_drop,DHL-WH-IL02,2022-06-28,0.0,100.0,100.0,HIGH,Operator 53 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.298977
+operator_accuracy_drop,DHL-WH-IL02,2022-09-10,0.0,100.0,100.0,HIGH,Operator 53 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.299016
+operator_accuracy_drop,DHL-WH-IL02,2022-12-04,50.0,100.0,50.0,HIGH,Operator 53 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.299055
+operator_accuracy_drop,DHL-WH-IL02,2023-05-04,50.0,100.0,50.0,HIGH,Operator 53 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.299091
+operator_accuracy_drop,DHL-WH-IL02,2023-10-29,0.0,100.0,100.0,HIGH,Operator 53 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.299127
+operator_accuracy_drop,DHL-WH-IL02,2023-11-30,0.0,96.6667,96.6667,HIGH,Operator 53 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.299163
+operator_accuracy_drop,DHL-WH-NJ01,2022-02-10,0.0,100.0,100.0,HIGH,Operator 53 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.300058
+operator_accuracy_drop,DHL-WH-NJ01,2022-08-29,0.0,100.0,100.0,HIGH,Operator 53 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.300100
+operator_accuracy_drop,DHL-WH-NJ01,2022-09-10,0.0,96.6667,96.6667,HIGH,Operator 53 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.300140
+operator_accuracy_drop,DHL-WH-NJ01,2023-02-27,0.0,100.0,100.0,HIGH,Operator 53 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.300177
+operator_accuracy_drop,DHL-WH-TX03,2023-09-26,0.0,100.0,100.0,HIGH,Operator 53 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.301104
+operator_accuracy_drop,DHL-WH-IL02,2022-01-30,0.0,100.0,100.0,HIGH,Operator 54 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.302006
+operator_accuracy_drop,DHL-WH-IL02,2022-08-04,0.0,100.0,100.0,HIGH,Operator 54 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.302048
+operator_accuracy_drop,DHL-WH-IL02,2022-11-19,0.0,100.0,100.0,HIGH,Operator 54 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.302086
+operator_accuracy_drop,DHL-WH-IL02,2023-05-11,0.0,100.0,100.0,HIGH,Operator 54 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.302125
+operator_accuracy_drop,DHL-WH-IL02,2023-10-26,0.0,100.0,100.0,HIGH,Operator 54 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.302160
+operator_accuracy_drop,DHL-WH-NJ01,2022-03-15,50.0,100.0,50.0,HIGH,Operator 54 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.303081
+operator_accuracy_drop,DHL-WH-NJ01,2022-09-28,50.0,100.0,50.0,HIGH,Operator 54 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.303124
+operator_accuracy_drop,DHL-WH-NJ01,2023-01-22,0.0,100.0,100.0,HIGH,Operator 54 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.303162
+operator_accuracy_drop,DHL-WH-NJ01,2023-03-13,50.0,100.0,50.0,HIGH,Operator 54 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.303200
+operator_accuracy_drop,DHL-WH-TX03,2022-08-13,0.0,100.0,100.0,HIGH,Operator 54 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.304100
+operator_accuracy_drop,DHL-WH-TX03,2022-10-11,0.0,100.0,100.0,HIGH,Operator 54 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.304141
+operator_accuracy_drop,DHL-WH-TX03,2023-01-25,50.0,100.0,50.0,HIGH,Operator 54 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.304180
+operator_accuracy_drop,DHL-WH-TX03,2023-02-02,0.0,98.3333,98.3333,HIGH,Operator 54 accuracy 0.00% is 98.3pp below their 30-day average (98.33%),2026-06-13T20:22:22.304218
+operator_accuracy_drop,DHL-WH-TX03,2023-03-28,0.0,100.0,100.0,HIGH,Operator 54 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.304254
+operator_accuracy_drop,DHL-WH-TX03,2023-05-17,50.0,100.0,50.0,HIGH,Operator 54 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.304290
+operator_accuracy_drop,DHL-WH-IL02,2022-02-11,0.0,100.0,100.0,HIGH,Operator 55 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.305185
+operator_accuracy_drop,DHL-WH-IL02,2022-11-11,0.0,100.0,100.0,HIGH,Operator 55 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.305226
+operator_accuracy_drop,DHL-WH-IL02,2022-12-27,0.0,96.6667,96.6667,HIGH,Operator 55 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.305264
+operator_accuracy_drop,DHL-WH-IL02,2022-12-27,0.0,93.3333,93.3333,HIGH,Operator 55 accuracy 0.00% is 93.3pp below their 30-day average (93.33%),2026-06-13T20:22:22.305302
+operator_accuracy_drop,DHL-WH-IL02,2023-01-03,0.0,93.3333,93.3333,HIGH,Operator 55 accuracy 0.00% is 93.3pp below their 30-day average (93.33%),2026-06-13T20:22:22.305338
+operator_accuracy_drop,DHL-WH-NJ01,2022-01-11,0.0,100.0,100.0,HIGH,Operator 55 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.306236
+operator_accuracy_drop,DHL-WH-NJ01,2022-06-04,0.0,100.0,100.0,HIGH,Operator 55 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.306277
+operator_accuracy_drop,DHL-WH-NJ01,2022-11-04,50.0,100.0,50.0,HIGH,Operator 55 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.306316
+operator_accuracy_drop,DHL-WH-NJ01,2022-12-14,0.0,98.3333,98.3333,HIGH,Operator 55 accuracy 0.00% is 98.3pp below their 30-day average (98.33%),2026-06-13T20:22:22.306354
+operator_accuracy_drop,DHL-WH-NJ01,2023-04-16,50.0,100.0,50.0,HIGH,Operator 55 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.306390
+operator_accuracy_drop,DHL-WH-NJ01,2023-05-03,0.0,98.3333,98.3333,HIGH,Operator 55 accuracy 0.00% is 98.3pp below their 30-day average (98.33%),2026-06-13T20:22:22.306426
+operator_accuracy_drop,DHL-WH-NJ01,2023-11-02,0.0,100.0,100.0,HIGH,Operator 55 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.306461
+operator_accuracy_drop,DHL-WH-TX03,2022-05-05,0.0,100.0,100.0,HIGH,Operator 55 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.307359
+operator_accuracy_drop,DHL-WH-TX03,2022-07-08,0.0,100.0,100.0,HIGH,Operator 55 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.307402
+operator_accuracy_drop,DHL-WH-TX03,2022-08-13,0.0,96.6667,96.6667,HIGH,Operator 55 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.307442
+operator_accuracy_drop,DHL-WH-TX03,2023-01-05,0.0,100.0,100.0,HIGH,Operator 55 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.307479
+operator_accuracy_drop,DHL-WH-TX03,2023-08-08,0.0,100.0,100.0,HIGH,Operator 55 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.307514
+operator_accuracy_drop,DHL-WH-TX03,2023-08-19,0.0,96.6667,96.6667,HIGH,Operator 55 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.307548
+operator_accuracy_drop,DHL-WH-TX03,2023-09-08,0.0,93.3333,93.3333,HIGH,Operator 55 accuracy 0.00% is 93.3pp below their 30-day average (93.33%),2026-06-13T20:22:22.307583
+operator_accuracy_drop,DHL-WH-IL02,2022-02-22,50.0,100.0,50.0,HIGH,Operator 56 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.308512
+operator_accuracy_drop,DHL-WH-NJ01,2022-02-01,0.0,100.0,100.0,HIGH,Operator 56 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.309404
+operator_accuracy_drop,DHL-WH-NJ01,2022-05-05,0.0,100.0,100.0,HIGH,Operator 56 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.309446
+operator_accuracy_drop,DHL-WH-NJ01,2022-07-30,0.0,100.0,100.0,HIGH,Operator 56 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.309484
+operator_accuracy_drop,DHL-WH-NJ01,2022-12-29,0.0,100.0,100.0,HIGH,Operator 56 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.309521
+operator_accuracy_drop,DHL-WH-NJ01,2023-06-20,0.0,100.0,100.0,HIGH,Operator 56 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.309557
+operator_accuracy_drop,DHL-WH-NJ01,2023-11-02,0.0,100.0,100.0,HIGH,Operator 56 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.309591
+operator_accuracy_drop,DHL-WH-TX03,2022-08-24,50.0,100.0,50.0,HIGH,Operator 56 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.310482
+operator_accuracy_drop,DHL-WH-TX03,2022-11-12,50.0,100.0,50.0,HIGH,Operator 56 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.310524
+operator_accuracy_drop,DHL-WH-TX03,2023-03-26,0.0,100.0,100.0,HIGH,Operator 56 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.310563
+operator_accuracy_drop,DHL-WH-TX03,2023-09-18,0.0,100.0,100.0,HIGH,Operator 56 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.310601
+operator_accuracy_drop,DHL-WH-IL02,2022-01-23,50.0,100.0,50.0,HIGH,Operator 57 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.311494
+operator_accuracy_drop,DHL-WH-IL02,2022-03-13,0.0,98.3333,98.3333,HIGH,Operator 57 accuracy 0.00% is 98.3pp below their 30-day average (98.33%),2026-06-13T20:22:22.311536
+operator_accuracy_drop,DHL-WH-IL02,2022-12-18,0.0,100.0,100.0,HIGH,Operator 57 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.311574
+operator_accuracy_drop,DHL-WH-IL02,2023-09-27,0.0,100.0,100.0,HIGH,Operator 57 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.311612
+operator_accuracy_drop,DHL-WH-IL02,2023-10-30,0.0,96.6667,96.6667,HIGH,Operator 57 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.311648
+operator_accuracy_drop,DHL-WH-IL02,2023-10-31,66.667,93.3333,26.6663,HIGH,Operator 57 accuracy 66.67% is 26.7pp below their 30-day average (93.33%),2026-06-13T20:22:22.311684
+operator_accuracy_drop,DHL-WH-NJ01,2022-02-12,0.0,100.0,100.0,HIGH,Operator 57 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.312615
+operator_accuracy_drop,DHL-WH-NJ01,2022-03-12,0.0,96.6667,96.6667,HIGH,Operator 57 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.312658
+operator_accuracy_drop,DHL-WH-NJ01,2022-05-01,0.0,100.0,100.0,HIGH,Operator 57 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.312707
+operator_accuracy_drop,DHL-WH-NJ01,2022-05-07,50.0,96.6667,46.6667,HIGH,Operator 57 accuracy 50.00% is 46.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.312747
+operator_accuracy_drop,DHL-WH-NJ01,2023-03-10,0.0,100.0,100.0,HIGH,Operator 57 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.312782
+operator_accuracy_drop,DHL-WH-NJ01,2023-07-29,0.0,100.0,100.0,HIGH,Operator 57 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.312817
+operator_accuracy_drop,DHL-WH-NJ01,2023-08-29,0.0,96.6667,96.6667,HIGH,Operator 57 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.312853
+operator_accuracy_drop,DHL-WH-TX03,2022-05-19,66.667,100.0,33.333,HIGH,Operator 57 accuracy 66.67% is 33.3pp below their 30-day average (100.00%),2026-06-13T20:22:22.313791
+operator_accuracy_drop,DHL-WH-TX03,2022-06-02,0.0,98.8889,98.8889,HIGH,Operator 57 accuracy 0.00% is 98.9pp below their 30-day average (98.89%),2026-06-13T20:22:22.313835
+operator_accuracy_drop,DHL-WH-TX03,2022-09-21,50.0,100.0,50.0,HIGH,Operator 57 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.313887
+operator_accuracy_drop,DHL-WH-TX03,2022-12-14,50.0,100.0,50.0,HIGH,Operator 57 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.313926
+operator_accuracy_drop,DHL-WH-TX03,2023-02-14,0.0,100.0,100.0,HIGH,Operator 57 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.313962
+operator_accuracy_drop,DHL-WH-IL02,2022-04-18,0.0,100.0,100.0,HIGH,Operator 58 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.314872
+operator_accuracy_drop,DHL-WH-IL02,2023-01-13,50.0,100.0,50.0,HIGH,Operator 58 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.314915
+operator_accuracy_drop,DHL-WH-IL02,2023-09-21,0.0,100.0,100.0,HIGH,Operator 58 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.314955
+operator_accuracy_drop,DHL-WH-NJ01,2022-05-20,0.0,100.0,100.0,HIGH,Operator 58 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.315853
+operator_accuracy_drop,DHL-WH-NJ01,2022-06-06,0.0,96.6667,96.6667,HIGH,Operator 58 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.315898
+operator_accuracy_drop,DHL-WH-NJ01,2022-08-14,0.0,100.0,100.0,HIGH,Operator 58 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.315939
+operator_accuracy_drop,DHL-WH-NJ01,2023-04-15,0.0,100.0,100.0,HIGH,Operator 58 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.315977
+operator_accuracy_drop,DHL-WH-NJ01,2023-10-03,0.0,100.0,100.0,HIGH,Operator 58 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.316012
+operator_accuracy_drop,DHL-WH-NJ01,2023-10-23,50.0,96.6667,46.6667,HIGH,Operator 58 accuracy 50.00% is 46.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.316049
+operator_accuracy_drop,DHL-WH-TX03,2022-03-04,0.0,100.0,100.0,HIGH,Operator 58 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.316946
+operator_accuracy_drop,DHL-WH-TX03,2022-05-14,0.0,100.0,100.0,HIGH,Operator 58 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.316991
+operator_accuracy_drop,DHL-WH-TX03,2022-12-10,0.0,100.0,100.0,HIGH,Operator 58 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.317030
+operator_accuracy_drop,DHL-WH-TX03,2023-04-19,0.0,100.0,100.0,HIGH,Operator 58 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.317069
+operator_accuracy_drop,DHL-WH-TX03,2023-11-23,0.0,100.0,100.0,HIGH,Operator 58 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.317104
+operator_accuracy_drop,DHL-WH-IL02,2022-06-05,0.0,100.0,100.0,HIGH,Operator 59 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.318004
+operator_accuracy_drop,DHL-WH-IL02,2022-10-12,0.0,100.0,100.0,HIGH,Operator 59 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.318047
+operator_accuracy_drop,DHL-WH-IL02,2022-11-04,0.0,96.6667,96.6667,HIGH,Operator 59 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.318086
+operator_accuracy_drop,DHL-WH-IL02,2023-01-20,0.0,100.0,100.0,HIGH,Operator 59 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.318130
+operator_accuracy_drop,DHL-WH-IL02,2023-05-06,0.0,100.0,100.0,HIGH,Operator 59 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.318173
+operator_accuracy_drop,DHL-WH-IL02,2023-12-29,0.0,100.0,100.0,HIGH,Operator 59 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.318207
+operator_accuracy_drop,DHL-WH-NJ01,2022-02-22,0.0,100.0,100.0,HIGH,Operator 59 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.319156
+operator_accuracy_drop,DHL-WH-NJ01,2022-06-18,0.0,100.0,100.0,HIGH,Operator 59 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.319199
+operator_accuracy_drop,DHL-WH-NJ01,2022-08-11,0.0,100.0,100.0,HIGH,Operator 59 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.319238
+operator_accuracy_drop,DHL-WH-NJ01,2023-03-26,0.0,100.0,100.0,HIGH,Operator 59 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.319275
+operator_accuracy_drop,DHL-WH-NJ01,2023-11-05,0.0,100.0,100.0,HIGH,Operator 59 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.319311
+operator_accuracy_drop,DHL-WH-TX03,2022-05-27,0.0,100.0,100.0,HIGH,Operator 59 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.320249
+operator_accuracy_drop,DHL-WH-TX03,2022-09-13,75.0,100.0,25.0,HIGH,Operator 59 accuracy 75.00% is 25.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.320291
+operator_accuracy_drop,DHL-WH-TX03,2022-10-08,50.0,99.1667,49.1667,HIGH,Operator 59 accuracy 50.00% is 49.2pp below their 30-day average (99.17%),2026-06-13T20:22:22.320330
+operator_accuracy_drop,DHL-WH-TX03,2023-11-12,0.0,100.0,100.0,HIGH,Operator 59 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.320369
+operator_accuracy_drop,DHL-WH-IL02,2022-06-14,50.0,100.0,50.0,HIGH,Operator 60 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.321268
+operator_accuracy_drop,DHL-WH-IL02,2022-09-14,0.0,100.0,100.0,HIGH,Operator 60 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.321311
+operator_accuracy_drop,DHL-WH-IL02,2023-01-11,0.0,100.0,100.0,HIGH,Operator 60 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.321349
+operator_accuracy_drop,DHL-WH-IL02,2023-03-05,0.0,100.0,100.0,HIGH,Operator 60 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.321387
+operator_accuracy_drop,DHL-WH-NJ01,2022-08-13,0.0,100.0,100.0,HIGH,Operator 60 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.322275
+operator_accuracy_drop,DHL-WH-NJ01,2023-01-02,0.0,100.0,100.0,HIGH,Operator 60 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.322317
+operator_accuracy_drop,DHL-WH-NJ01,2023-01-22,0.0,96.6667,96.6667,HIGH,Operator 60 accuracy 0.00% is 96.7pp below their 30-day average (96.67%),2026-06-13T20:22:22.322355
+operator_accuracy_drop,DHL-WH-NJ01,2023-04-07,0.0,100.0,100.0,HIGH,Operator 60 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.322393
+operator_accuracy_drop,DHL-WH-NJ01,2023-10-12,0.0,100.0,100.0,HIGH,Operator 60 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.322428
+operator_accuracy_drop,DHL-WH-TX03,2022-01-23,50.0,100.0,50.0,HIGH,Operator 60 accuracy 50.00% is 50.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.323317
+operator_accuracy_drop,DHL-WH-TX03,2023-05-11,66.667,100.0,33.333,HIGH,Operator 60 accuracy 66.67% is 33.3pp below their 30-day average (100.00%),2026-06-13T20:22:22.323359
+operator_accuracy_drop,DHL-WH-TX03,2023-09-21,0.0,100.0,100.0,HIGH,Operator 60 accuracy 0.00% is 100.0pp below their 30-day average (100.00%),2026-06-13T20:22:22.323399
+error_rate_spike,DHL-WH-IL02,2023-02-09,3.0,1.0333,2.9032,MEDIUM,Error code 'DAMAGED' occurred 3 times (2.9x the 30-day average of 1.0),2026-06-13T20:22:22.329889
+error_rate_spike,DHL-WH-NJ01,2022-04-22,3.0,1.125,2.6667,MEDIUM,Error code 'WRONG_SKU' occurred 3 times (2.7x the 30-day average of 1.1),2026-06-13T20:22:22.337607
+error_rate_spike,DHL-WH-NJ01,2023-02-28,3.0,1.0667,2.8125,MEDIUM,Error code 'WRONG_SKU' occurred 3 times (2.8x the 30-day average of 1.1),2026-06-13T20:22:22.337654
+error_rate_spike,DHL-WH-NJ01,2023-12-09,3.0,1.1333,2.6471,MEDIUM,Error code 'WRONG_SKU' occurred 3 times (2.6x the 30-day average of 1.1),2026-06-13T20:22:22.337706

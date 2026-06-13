@@ -1,0 +1,6 @@
+check,status,rows_checked,rows_failed,detail,checked_at
+total_task_count,PASS,219000,0,"fact_wms_tasks=219,000 | fact_wms_daily_kpis.SUM(total_tasks)=219,000",2026-06-13T20:22:06.545469
+pick_accuracy_sample,PASS,10,0,"Sampled 10 dates, 0 accuracy mismatches",2026-06-13T20:22:06.565562
+no_missing_dates,PASS,730,0,Source dates: 730 | KPI dates: 730 | Missing from KPI: 0 | Extra in KPI: 0,2026-06-13T20:22:06.569911
+operator_count,PASS,60,0,Source distinct operators: 60 | fact_operator_daily: 60,2026-06-13T20:22:06.576313
+monthly_vs_daily_totals,PASS,219000,0,"Daily total: 219,000 | Monthly total: 219,000",2026-06-13T20:22:06.577289

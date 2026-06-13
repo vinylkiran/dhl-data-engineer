@@ -1,0 +1,14 @@
+warehouse_id,operator_id,hire_date_cohort,days_flagged,avg_pick_accuracy_pct,total_errors,error_codes,recommended_action
+DHL-WH-IL02,35,2022-Q1,1,0.0,1.0,WRONG_QTY,Schedule coaching session — pick accuracy below 98.5% threshold
+DHL-WH-IL02,59,2022-Q1,1,0.0,1.0,WRONG_SKU,Schedule coaching session — pick accuracy below 98.5% threshold
+DHL-WH-IL02,44,2022-Q1,1,50.0,1.0,DAMAGED,Schedule coaching session — pick accuracy below 98.5% threshold
+DHL-WH-NJ01,12,2022-Q1,1,0.0,1.0,WRONG_QTY,Schedule coaching session — pick accuracy below 98.5% threshold
+DHL-WH-NJ01,13,2022-Q1,1,0.0,1.0,MISSING_LABEL,Schedule coaching session — pick accuracy below 98.5% threshold
+DHL-WH-NJ01,42,2022-Q1,1,0.0,1.0,MISSING_LABEL,Schedule coaching session — pick accuracy below 98.5% threshold
+DHL-WH-NJ01,28,2022-Q1,1,0.0,1.0,MISSING_LABEL,Schedule coaching session — pick accuracy below 98.5% threshold
+DHL-WH-NJ01,14,2022-Q1,1,50.0,1.0,MISSING_LABEL,Schedule coaching session — pick accuracy below 98.5% threshold
+DHL-WH-NJ01,45,2022-Q1,1,50.0,1.0,WRONG_LOCATION,Schedule coaching session — pick accuracy below 98.5% threshold
+DHL-WH-TX03,30,2022-Q1,1,0.0,1.0,WRONG_SKU,Schedule coaching session — pick accuracy below 98.5% threshold
+DHL-WH-TX03,6,2022-Q1,1,0.0,1.0,WRONG_LOCATION,Schedule coaching session — pick accuracy below 98.5% threshold
+DHL-WH-TX03,47,2022-Q1,1,0.0,1.0,WRONG_LOCATION,Schedule coaching session — pick accuracy below 98.5% threshold
+DHL-WH-TX03,52,2022-Q1,1,50.0,1.0,WRONG_QTY,Schedule coaching session — pick accuracy below 98.5% threshold
